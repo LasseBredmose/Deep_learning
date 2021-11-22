@@ -56,8 +56,8 @@ x_train.div_(255)
 x_valid.div_(255)
 
 # Creating batches 
-batch_size = 200
-num_epochs = 30 # training 200 times
+batch_size = 100
+num_epochs = 200 # training 200 times
 
 num_samples_train = x_train.shape[0]
 num_batches_train = num_samples_train// batch_size
@@ -136,6 +136,7 @@ plt.figure()
 plt.plot(epoch, train_acc, 'r', epoch, valid_acc, 'b', epoch, train_losses, 'm')
 plt.legend(['Train Accucary','Validation Accuracy'])
 plt.xlabel('Updates'), plt.ylabel('Acc')
+plt.savefig(f'ResNet18_{tra_size}_{val_size}_{num_epochs}')
 plt.show()
 
 

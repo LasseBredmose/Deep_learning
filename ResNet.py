@@ -1,10 +1,40 @@
 # Creating the network
 import torch.nn as nn
 
+class baseblock(nn.Module):
+    expansion = 1
+    basic = True
+    def __init__(self, in_channels, out_channels, identity_downsample=None, stride=1):
+        super(baseblock, self).__init__()
+        self.conv1 = nn.Conv2d(in_channels=in_channels, out_channels=out_channels, kernel_size=3, stride=stride, padding=1, bias=False)
+        self.bn1 = nn.BatchNorm2d(out_channels)
+        self.conv2 = nn.Conv2d(in_channels=out_channels, out_channels=out_channels, kernel_size=3, stride=stride, padding=1, bias=False)
+        self.bn2 = nn.BatchNorm2d(out_channels)
+        self.relu = nn.ReLU()
+        self.identity_downsample = identity_downsample # identity_downsample = convlayer, which we might need if we change the input sizes or number of channels
+
+    def forward(self, x):
+        identity = x
+
+        x = self.conv1(x)
+        x = self.bn1(x)
+        x = self.relu(x)
+
+        x = self.conv2(x)
+        x = self.bn2(x)
+
+        if self.identity_downsample is not None:
+            identity = self.identity_downsample(identity)
+
+        x += identity
+        x = self.relu(x)
+        return x
+
 class block(nn.Module):
-    def __init__(self, in_channels, out_channels, identity_downsample=None, stride=1): 
+    expansion = 4 # Number of blocks after a channel is always 4 times higher than when it entered; ref paper
+    basic = False
+    def __init__(self, in_channels, out_channels, identity_downsample=None, stride=1):
         super(block, self).__init__()
-        self.expansion = 4 # Number of blocks after a channel is always 4 times higher than when it entered; ref paper
         self.conv1 = nn.Conv2d(in_channels=in_channels, out_channels=out_channels, kernel_size=1, stride=1, padding=0, bias=False)
         self.bn1 = nn.BatchNorm2d(out_channels) # normalize the batches, such that our output data don't variate too much 
         self.conv2 = nn.Conv2d(in_channels=out_channels,out_channels=out_channels, kernel_size=3, stride=stride, padding=1, bias=False)
@@ -49,7 +79,7 @@ class ResNet(nn.Module): # [3,4,6,3]: how many times the blocks are used in each
         self.layer4 = self._make_layer(block, layers[3], out_channels=512, stride=2)
 
         self.avgpool = nn.AdaptiveAvgPool2d((1,1))
-        self.fc = nn.Linear(512*4, num_classes)
+        self.fc = nn.Linear(512* block.expansion, num_classes)
 
     def forward(self, x):
         x = self.conv1(x)
@@ -71,13 +101,16 @@ class ResNet(nn.Module): # [3,4,6,3]: how many times the blocks are used in each
     def _make_layer(self, block, num_residual_blocks, out_channels, stride):
         identity_downsample = None
         layers = []
+        if block.basic:
+            stride =1
 
-        if stride != 1 or self.in_channels != out_channels * 4:
-            identity_downsample = nn.Sequential(nn.Conv2d(in_channels=self.in_channels, out_channels=out_channels*4,
-                                                            kernel_size=1, stride=stride, bias=False),nn.BatchNorm2d(out_channels*4))
+        if stride != 1 or self.in_channels != out_channels * block.expansion:
+            identity_downsample = nn.Sequential(nn.Conv2d(in_channels=self.in_channels, out_channels=out_channels*block.expansion,
+                                                            kernel_size=1, stride=stride, bias=False),nn.BatchNorm2d(out_channels*block.expansion))
         
         layers.append(block(self.in_channels, out_channels, identity_downsample, stride))
-        self.in_channels = out_channels * 4
+        
+        self.in_channels = out_channels * block.expansion
 
         for i in range(num_residual_blocks - 1):
             layers.append(block(self.in_channels, out_channels))
@@ -88,7 +121,7 @@ def ResNet50(img_channels = 1, num_classes = 10):
     return ResNet(block, [3, 4, 6, 3], img_channels, num_classes)
 
 def ResNet18(img_channels = 1, num_classes = 10):
-    return ResNet(block, [2,2,2,2], img_channels, num_classes)
+    return ResNet(baseblock, [2,2,2,2], img_channels, num_classes)
 
 
 '''
