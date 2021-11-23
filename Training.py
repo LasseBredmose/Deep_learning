@@ -3,31 +3,37 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
-import torch.nn.init as init
-import tensorflow as tf
-import time as t
+
 
 
 #%matplotlib inline
-import matplotlib
 import numpy as np
 import matplotlib.pyplot as plt
 
-from torch.nn.parameter import Parameter
 from torchvision.datasets import MNIST
-from tensorflow import Tensor
 from sklearn.metrics import accuracy_score
 import ResNet as RN
+#import sys
+
+# Arguments simple:
+# 1: Training size
+# 2: Validation size
+# 3: ResNet
+# 4: Batch size
+# 5: Number of epocs
+
+#arg_list = sys.argv
+
 
 
 
 # Importing the MNIST dataset
-mnist_trainset = MNIST("./temp/", train=True, download=True)
-mnist_testset = MNIST("./temp/", train=False, download=True)
+mnist_trainset = MNIST("./temp/", train=True, download=True) # Size of 60000
+mnist_testset = MNIST("./temp/", train=False, download=True) # Size of 60000
 
 # Only taking a subset
-tra_size = 2000
-val_size = 3000
+tra_size = 10000
+val_size = 15000
 
 x_train = mnist_trainset.data[:tra_size].view(-1, 784).float()
 x_train = x_train.reshape((x_train.shape[0], 1, 28, 28))
@@ -56,8 +62,8 @@ x_train.div_(255)
 x_valid.div_(255)
 
 # Creating batches 
-batch_size = 100
-num_epochs = 200 # training 200 times
+batch_size = 500
+num_epochs = 30 # training 200 times
 
 num_samples_train = x_train.shape[0]
 num_batches_train = num_samples_train// batch_size
