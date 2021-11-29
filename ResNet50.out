@@ -1,0 +1,32 @@
+Downloading http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz
+Downloading http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz to ./temp/MNIST/raw/train-images-idx3-ubyte.gz
+Extracting ./temp/MNIST/raw/train-images-idx3-ubyte.gz to ./temp/MNIST/raw
+
+Downloading http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz
+Downloading http://yann.lecun.com/exdb/mnist/train-labels-idx1-ubyte.gz to ./temp/MNIST/raw/train-labels-idx1-ubyte.gz
+Extracting ./temp/MNIST/raw/train-labels-idx1-ubyte.gz to ./temp/MNIST/raw
+
+Downloading http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz
+Downloading http://yann.lecun.com/exdb/mnist/t10k-images-idx3-ubyte.gz to ./temp/MNIST/raw/t10k-images-idx3-ubyte.gz
+Extracting ./temp/MNIST/raw/t10k-images-idx3-ubyte.gz to ./temp/MNIST/raw
+
+Downloading http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz
+Downloading http://yann.lecun.com/exdb/mnist/t10k-labels-idx1-ubyte.gz to ./temp/MNIST/raw/t10k-labels-idx1-ubyte.gz
+Extracting ./temp/MNIST/raw/t10k-labels-idx1-ubyte.gz to ./temp/MNIST/raw
+
+Epoch  1 : Train Loss 0.097681 , Train acc 0.816400, Valid acc 0.812100
+Epoch  2 : Train Loss 0.017858 , Train acc 0.947350, Valid acc 0.942200
+Epoch  3 : Train Loss 0.007987 , Train acc 0.974750, Valid acc 0.960700
+Epoch  4 : Train Loss 0.004677 , Train acc 0.984600, Valid acc 0.968600
+Epoch  5 : Train Loss 0.003023 , Train acc 0.984000, Valid acc 0.965600
+Epoch  6 : Train Loss 0.002249 , Train acc 0.986250, Valid acc 0.968600
+Epoch  7 : Train Loss 0.001846 , Train acc 0.990650, Valid acc 0.972400
+Epoch  8 : Train Loss 0.001164 , Train acc 0.990800, Valid acc 0.971200
+Epoch  9 : Train Loss 0.000912 , Train acc 0.990400, Valid acc 0.972700
+Epoch 10 : Train Loss 0.000606 , Train acc 0.995050, Valid acc 0.973400
+Epoch 11 : Train Loss 0.000337 , Train acc 0.996250, Valid acc 0.974900
+Epoch 12 : Train Loss 0.000322 , Train acc 0.996900, Valid acc 0.975800
+Epoch 13 : Train Loss 0.000201 , Train acc 0.999400, Valid acc 0.978900
+Epoch 14 : Train Loss 0.000042 , Train acc 0.999900, Valid acc 0.979700
+Epoch 15 : Train Loss 0.000016 , Train acc 0.999950, Valid acc 0.980400
+Epoch 16 : Train Loss 0.000009 , Train acc 1.000000, Valid acc 0.980700
