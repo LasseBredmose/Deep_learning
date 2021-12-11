@@ -122,7 +122,9 @@ def ResNet50(img_channels = 1, num_classes = 10):
 
 def ResNet18(img_channels = 1, num_classes = 10):
     return ResNet(baseblock, [2,2,2,2], img_channels, num_classes)
-
+    
+def ResNetX(img_channels = 1, num_classes = 10, layers = [2,2,2,2]):
+    return ResNet(baseblock, layers, img_channels, num_classes )
 
 '''
 
