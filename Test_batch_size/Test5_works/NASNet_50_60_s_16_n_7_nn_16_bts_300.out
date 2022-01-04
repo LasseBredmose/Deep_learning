@@ -1,0 +1,3677 @@
+Running GPU.
+Training size: 50000, Validation size: 50000:60000, batch sizes: 300,neural_networs: 16, Epochs_ResNet: 7, Epochs_SuperLoop: 16
+Epoch 0 : b_values [[0.33333333 0.33333333 0.33333333]
+ [0.33333333 0.33333333 0.33333333]
+ [0.33333333 0.33333333 0.33333333]
+ [0.33333333 0.33333333 0.33333333]] 
+losse
+Epoch  1 : Train Loss 0.143589 , Train acc 0.966145, Valid acc 0.967879
+Epoch  2 : Train Loss 0.020105
+Epoch  3 : Train Loss 0.010745
+Epoch  4 : Train Loss 0.006899
+Epoch  5 : Train Loss 0.004521
+Epoch  6 : Train Loss 0.003296 , Train acc 0.982791, Valid acc 0.977778
+Epoch  7 : Train Loss 0.002785
+Epoch  8 : Train Loss 0.001685 , Train acc 0.997892, Valid acc 0.990404
+0.0016852589855746677
+Epoch  1 : Train Loss 0.119216 , Train acc 0.981627, Valid acc 0.981111
+Epoch  2 : Train Loss 0.021030
+Epoch  3 : Train Loss 0.012852
+Epoch  4 : Train Loss 0.007376
+Epoch  5 : Train Loss 0.005255
+Epoch  6 : Train Loss 0.003525 , Train acc 0.996968, Valid acc 0.990000
+Epoch  7 : Train Loss 0.002523
+Epoch  8 : Train Loss 0.001697 , Train acc 0.998394, Valid acc 0.991414
+0.0016967904694320168
+Epoch  1 : Train Loss 0.122054 , Train acc 0.980462, Valid acc 0.979798
+Epoch  2 : Train Loss 0.019583
+Epoch  3 : Train Loss 0.010548
+Epoch  4 : Train Loss 0.005846
+Epoch  5 : Train Loss 0.004377
+Epoch  6 : Train Loss 0.004162 , Train acc 0.989197, Valid acc 0.983939
+Epoch  7 : Train Loss 0.003406
+Epoch  8 : Train Loss 0.002399 , Train acc 0.995683, Valid acc 0.990000
+0.0023988330647989643
+Epoch  1 : Train Loss 0.151269 , Train acc 0.957811, Valid acc 0.961919
+Epoch  2 : Train Loss 0.024795
+Epoch  3 : Train Loss 0.014064
+Epoch  4 : Train Loss 0.008802
+Epoch  5 : Train Loss 0.006601
+Epoch  6 : Train Loss 0.004463 , Train acc 0.985382, Valid acc 0.979293
+Epoch  7 : Train Loss 0.002889
+Epoch  8 : Train Loss 0.002019 , Train acc 0.995683, Valid acc 0.989596
+0.002019287264556624
+Epoch  1 : Train Loss 0.125935 , Train acc 0.975040, Valid acc 0.975758
+Epoch  2 : Train Loss 0.020451
+Epoch  3 : Train Loss 0.011268
+Epoch  4 : Train Loss 0.006918
+Epoch  5 : Train Loss 0.004075
+Epoch  6 : Train Loss 0.002211 , Train acc 0.995100, Valid acc 0.986364
+Epoch  7 : Train Loss 0.001503
+Epoch  8 : Train Loss 0.000715 , Train acc 0.999799, Valid acc 0.993636
+0.0007151183802246426
+Epoch  1 : Train Loss 0.125711 , Train acc 0.954357, Valid acc 0.957778
+Epoch  2 : Train Loss 0.020306
+Epoch  3 : Train Loss 0.010844
+Epoch  4 : Train Loss 0.006605
+Epoch  5 : Train Loss 0.003612
+Epoch  6 : Train Loss 0.002324 , Train acc 0.996647, Valid acc 0.988384
+Epoch  7 : Train Loss 0.001451
+Epoch  8 : Train Loss 0.000858 , Train acc 0.999197, Valid acc 0.989899
+0.0008584317490749527
+Epoch  1 : Train Loss 0.122374 , Train acc 0.963956, Valid acc 0.965455
+Epoch  2 : Train Loss 0.019002
+Epoch  3 : Train Loss 0.010124
+Epoch  4 : Train Loss 0.006133
+Epoch  5 : Train Loss 0.003410
+Epoch  6 : Train Loss 0.002224 , Train acc 0.986727, Valid acc 0.979899
+Epoch  7 : Train Loss 0.001235
+Epoch  8 : Train Loss 0.000733 , Train acc 0.999719, Valid acc 0.993434
+0.0007330909555700297
+Epoch  1 : Train Loss 0.123484 , Train acc 0.973815, Valid acc 0.973939
+Epoch  2 : Train Loss 0.020824
+Epoch  3 : Train Loss 0.011075
+Epoch  4 : Train Loss 0.006048
+Epoch  5 : Train Loss 0.004037
+Epoch  6 : Train Loss 0.002394 , Train acc 0.991546, Valid acc 0.983636
+Epoch  7 : Train Loss 0.001838
+Epoch  8 : Train Loss 0.001339 , Train acc 0.999478, Valid acc 0.991313
+0.0013391333016140076
+Epoch  1 : Train Loss 0.111636 , Train acc 0.951687, Valid acc 0.950909
+Epoch  2 : Train Loss 0.020393
+Epoch  3 : Train Loss 0.010395
+Epoch  4 : Train Loss 0.005681
+Epoch  5 : Train Loss 0.003708
+Epoch  6 : Train Loss 0.002191 , Train acc 0.991546, Valid acc 0.983838
+Epoch  7 : Train Loss 0.001636
+Epoch  8 : Train Loss 0.000883 , Train acc 0.999498, Valid acc 0.991111
+0.0008832662405135731
+Epoch  1 : Train Loss 0.120581 , Train acc 0.974257, Valid acc 0.974949
+Epoch  2 : Train Loss 0.020239
+Epoch  3 : Train Loss 0.011577
+Epoch  4 : Train Loss 0.007663
+Epoch  5 : Train Loss 0.005421
+Epoch  6 : Train Loss 0.003291 , Train acc 0.980663, Valid acc 0.975859
+Epoch  7 : Train Loss 0.003891
+Epoch  8 : Train Loss 0.001948 , Train acc 0.998012, Valid acc 0.991010
+0.0019483770928733673
+Epoch  1 : Train Loss 0.147491 , Train acc 0.954036, Valid acc 0.954040
+Epoch  2 : Train Loss 0.021142
+Epoch  3 : Train Loss 0.011667
+Epoch  4 : Train Loss 0.007015
+Epoch  5 : Train Loss 0.003962
+Epoch  6 : Train Loss 0.002054 , Train acc 0.990984, Valid acc 0.982828
+Epoch  7 : Train Loss 0.001453
+Epoch  8 : Train Loss 0.000762 , Train acc 0.999076, Valid acc 0.990202
+0.0007620355209898359
+Epoch  1 : Train Loss 0.120044 , Train acc 0.975703, Valid acc 0.976364
+Epoch  2 : Train Loss 0.019225
+Epoch  3 : Train Loss 0.010286
+Epoch  4 : Train Loss 0.005444
+Epoch  5 : Train Loss 0.003561
+Epoch  6 : Train Loss 0.002776 , Train acc 0.993996, Valid acc 0.987374
+Epoch  7 : Train Loss 0.002171
+Epoch  8 : Train Loss 0.001377 , Train acc 0.997791, Valid acc 0.990101
+0.0013770117244469777
+Epoch  1 : Train Loss 0.128098 , Train acc 0.967068, Valid acc 0.969596
+Epoch  2 : Train Loss 0.020926
+Epoch  3 : Train Loss 0.012755
+Epoch  4 : Train Loss 0.007970
+Epoch  5 : Train Loss 0.005558
+Epoch  6 : Train Loss 0.003083 , Train acc 0.993373, Valid acc 0.988081
+Epoch  7 : Train Loss 0.002240
+Epoch  8 : Train Loss 0.001689 , Train acc 0.997410, Valid acc 0.990707
+0.0016887558483479855
+Epoch  1 : Train Loss 0.119268 , Train acc 0.962651, Valid acc 0.959596
+Epoch  2 : Train Loss 0.019692
+Epoch  3 : Train Loss 0.010293
+Epoch  4 : Train Loss 0.005524
+Epoch  5 : Train Loss 0.003360
+Epoch  6 : Train Loss 0.003228 , Train acc 0.992108, Valid acc 0.984949
+Epoch  7 : Train Loss 0.003254
+Epoch  8 : Train Loss 0.002142 , Train acc 0.998976, Valid acc 0.992222
+0.002142334863989769
+Epoch  1 : Train Loss 0.146388 , Train acc 0.973835, Valid acc 0.974444
+Epoch  2 : Train Loss 0.023207
+Epoch  3 : Train Loss 0.014212
+Epoch  4 : Train Loss 0.008264
+Epoch  5 : Train Loss 0.005856
+Epoch  6 : Train Loss 0.003806 , Train acc 0.989197, Valid acc 0.981414
+Epoch  7 : Train Loss 0.002412
+Epoch  8 : Train Loss 0.003174 , Train acc 0.991727, Valid acc 0.985253
+0.003174459961883258
+Epoch  1 : Train Loss 0.143167 , Train acc 0.964257, Valid acc 0.962525
+Epoch  2 : Train Loss 0.020758
+Epoch  3 : Train Loss 0.011509
+Epoch  4 : Train Loss 0.007173
+Epoch  5 : Train Loss 0.004367
+Epoch  6 : Train Loss 0.003000 , Train acc 0.982731, Valid acc 0.976263
+Epoch  7 : Train Loss 0.002212
+Epoch  8 : Train Loss 0.001392 , Train acc 0.998795, Valid acc 0.992020
+0.0013920632639201358
+[-0.69314718 -0.69314718 -0.69314718]
+[0.33333333 0.33333333 0.33333333]
+[0. 0. 0.]
+[[2 0 2 0]
+ [2 0 1 2]
+ [0 2 2 1]
+ [1 1 0 0]
+ [1 0 0 1]
+ [0 1 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 2]
+ [1 2 2 1]
+ [2 0 1 0]
+ [0 0 2 1]
+ [2 2 0 1]
+ [1 1 2 2]
+ [1 1 0 0]
+ [2 0 2 0]]
+[-0.69314718 -0.69314718 -0.69314718]
+[0.33333333 0.33333333 0.33333333]
+[0. 0. 0.]
+[[2 0 2 0]
+ [2 0 1 2]
+ [0 2 2 1]
+ [1 1 0 0]
+ [1 0 0 1]
+ [0 1 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 2]
+ [1 2 2 1]
+ [2 0 1 0]
+ [0 0 2 1]
+ [2 2 0 1]
+ [1 1 2 2]
+ [1 1 0 0]
+ [2 0 2 0]]
+[-0.69314718 -0.69314718 -0.69314718]
+[0.33333333 0.33333333 0.33333333]
+[0. 0. 0.]
+[[2 0 2 0]
+ [2 0 1 2]
+ [0 2 2 1]
+ [1 1 0 0]
+ [1 0 0 1]
+ [0 1 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 2]
+ [1 2 2 1]
+ [2 0 1 0]
+ [0 0 2 1]
+ [2 2 0 1]
+ [1 1 2 2]
+ [1 1 0 0]
+ [2 0 2 0]]
+[-0.69314718 -0.69314718 -0.69314718]
+[0.33333333 0.33333333 0.33333333]
+[0. 0. 0.]
+[[2 0 2 0]
+ [2 0 1 2]
+ [0 2 2 1]
+ [1 1 0 0]
+ [1 0 0 1]
+ [0 1 0 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 0 2]
+ [1 2 2 1]
+ [2 0 1 0]
+ [0 0 2 1]
+ [2 2 0 1]
+ [1 1 2 2]
+ [1 1 0 0]
+ [2 0 2 0]]
+Epoch 1 : b_values [[0.34871215 0.31351195 0.3377759 ]
+ [0.3641955  0.31530735 0.32049715]
+ [0.33473437 0.34647339 0.31879224]
+ [0.32194284 0.3454861  0.33257106]] 
+losse
+Epoch  1 : Train Loss 0.150114 , Train acc 0.954699, Valid acc 0.955152
+Epoch  2 : Train Loss 0.021230
+Epoch  3 : Train Loss 0.011473
+Epoch  4 : Train Loss 0.006665
+Epoch  5 : Train Loss 0.003710
+Epoch  6 : Train Loss 0.002036 , Train acc 0.989558, Valid acc 0.982323
+Epoch  7 : Train Loss 0.001127
+Epoch  8 : Train Loss 0.000607 , Train acc 0.999940, Valid acc 0.993838
+0.0006065549822718215
+Epoch  1 : Train Loss 0.122631 , Train acc 0.969699, Valid acc 0.966263
+Epoch  2 : Train Loss 0.020989
+Epoch  3 : Train Loss 0.011343
+Epoch  4 : Train Loss 0.006623
+Epoch  5 : Train Loss 0.003786
+Epoch  6 : Train Loss 0.002772 , Train acc 0.995201, Valid acc 0.988384
+Epoch  7 : Train Loss 0.001937
+Epoch  8 : Train Loss 0.000942 , Train acc 0.999438, Valid acc 0.992121
+0.000941868442168925
+Epoch  1 : Train Loss 0.124797 , Train acc 0.954458, Valid acc 0.956364
+Epoch  2 : Train Loss 0.021662
+Epoch  3 : Train Loss 0.011862
+Epoch  4 : Train Loss 0.006931
+Epoch  5 : Train Loss 0.004358
+Epoch  6 : Train Loss 0.002562 , Train acc 0.994418, Valid acc 0.985758
+Epoch  7 : Train Loss 0.001685
+Epoch  8 : Train Loss 0.000948 , Train acc 0.998735, Valid acc 0.990202
+0.0009481246600383504
+Epoch  1 : Train Loss 0.125004 , Train acc 0.979378, Valid acc 0.979394
+Epoch  2 : Train Loss 0.019376
+Epoch  3 : Train Loss 0.010358
+Epoch  4 : Train Loss 0.006180
+Epoch  5 : Train Loss 0.004465
+Epoch  6 : Train Loss 0.003194 , Train acc 0.995321, Valid acc 0.988687
+Epoch  7 : Train Loss 0.002473
+Epoch  8 : Train Loss 0.001765 , Train acc 0.995181, Valid acc 0.986768
+0.0017654570629141138
+Epoch  1 : Train Loss 0.119477 , Train acc 0.972048, Valid acc 0.972020
+Epoch  2 : Train Loss 0.019305
+Epoch  3 : Train Loss 0.010387
+Epoch  4 : Train Loss 0.007040
+Epoch  5 : Train Loss 0.003718
+Epoch  6 : Train Loss 0.002262 , Train acc 0.996566, Valid acc 0.988384
+Epoch  7 : Train Loss 0.001350
+Epoch  8 : Train Loss 0.000639 , Train acc 0.999618, Valid acc 0.992626
+0.0006394361307805714
+Epoch  1 : Train Loss 0.141502 , Train acc 0.966365, Valid acc 0.968687
+Epoch  2 : Train Loss 0.020892
+Epoch  3 : Train Loss 0.011830
+Epoch  4 : Train Loss 0.006841
+Epoch  5 : Train Loss 0.004120
+Epoch  6 : Train Loss 0.002702 , Train acc 0.997189, Valid acc 0.990707
+Epoch  7 : Train Loss 0.001844
+Epoch  8 : Train Loss 0.002486 , Train acc 0.997108, Valid acc 0.989798
+0.002486461753821156
+Epoch  1 : Train Loss 0.160351 , Train acc 0.979157, Valid acc 0.980505
+Epoch  2 : Train Loss 0.024380
+Epoch  3 : Train Loss 0.014830
+Epoch  4 : Train Loss 0.009693
+Epoch  5 : Train Loss 0.006278
+Epoch  6 : Train Loss 0.003802 , Train acc 0.966064, Valid acc 0.965859
+Epoch  7 : Train Loss 0.002435
+Epoch  8 : Train Loss 0.001584 , Train acc 0.996526, Valid acc 0.989495
+0.0015839395128811398
+Epoch  1 : Train Loss 0.141689 , Train acc 0.963012, Valid acc 0.964444
+Epoch  2 : Train Loss 0.020602
+Epoch  3 : Train Loss 0.010673
+Epoch  4 : Train Loss 0.005929
+Epoch  5 : Train Loss 0.003876
+Epoch  6 : Train Loss 0.002217 , Train acc 0.995000, Valid acc 0.986970
+Epoch  7 : Train Loss 0.001081
+Epoch  8 : Train Loss 0.000657 , Train acc 0.999739, Valid acc 0.993232
+0.0006574941989189634
+Epoch  1 : Train Loss 0.142272 , Train acc 0.941165, Valid acc 0.943131
+Epoch  2 : Train Loss 0.021737
+Epoch  3 : Train Loss 0.012299
+Epoch  4 : Train Loss 0.007099
+Epoch  5 : Train Loss 0.004338
+Epoch  6 : Train Loss 0.003072 , Train acc 0.993313, Valid acc 0.985758
+Epoch  7 : Train Loss 0.002251
+Epoch  8 : Train Loss 0.001154 , Train acc 0.994900, Valid acc 0.985051
+0.0011537550585732485
+Epoch  1 : Train Loss 0.143822 , Train acc 0.975382, Valid acc 0.975859
+Epoch  2 : Train Loss 0.021335
+Epoch  3 : Train Loss 0.011237
+Epoch  4 : Train Loss 0.006124
+Epoch  5 : Train Loss 0.003794
+Epoch  6 : Train Loss 0.002421 , Train acc 0.984839, Valid acc 0.980202
+Epoch  7 : Train Loss 0.001739
+Epoch  8 : Train Loss 0.001858 , Train acc 0.997631, Valid acc 0.989091
+0.0018581873412282827
+Epoch  1 : Train Loss 0.144043 , Train acc 0.950683, Valid acc 0.954343
+Epoch  2 : Train Loss 0.021872
+Epoch  3 : Train Loss 0.012525
+Epoch  4 : Train Loss 0.007312
+Epoch  5 : Train Loss 0.004981
+Epoch  6 : Train Loss 0.003007 , Train acc 0.969900, Valid acc 0.965960
+Epoch  7 : Train Loss 0.001915
+Epoch  8 : Train Loss 0.001040 , Train acc 0.998494, Valid acc 0.990404
+0.0010403900910265899
+Epoch  1 : Train Loss 0.123351 , Train acc 0.979478, Valid acc 0.977374
+Epoch  2 : Train Loss 0.020505
+Epoch  3 : Train Loss 0.010932
+Epoch  4 : Train Loss 0.006308
+Epoch  5 : Train Loss 0.003558
+Epoch  6 : Train Loss 0.002017 , Train acc 0.997550, Valid acc 0.990101
+Epoch  7 : Train Loss 0.001206
+Epoch  8 : Train Loss 0.000784 , Train acc 0.999859, Valid acc 0.993434
+0.0007840558957347335
+Epoch  1 : Train Loss 0.114895 , Train acc 0.980422, Valid acc 0.980303
+Epoch  2 : Train Loss 0.020720
+Epoch  3 : Train Loss 0.011474
+Epoch  4 : Train Loss 0.007136
+Epoch  5 : Train Loss 0.004599
+Epoch  6 : Train Loss 0.002353 , Train acc 0.993835, Valid acc 0.985051
+Epoch  7 : Train Loss 0.001785
+Epoch  8 : Train Loss 0.001195 , Train acc 0.998574, Valid acc 0.990505
+0.0011947035084206921
+Epoch  1 : Train Loss 0.130988 , Train acc 0.970723, Valid acc 0.971111
+Epoch  2 : Train Loss 0.021818
+Epoch  3 : Train Loss 0.012598
+Epoch  4 : Train Loss 0.007813
+Epoch  5 : Train Loss 0.005115
+Epoch  6 : Train Loss 0.003603 , Train acc 0.989177, Valid acc 0.983939
+Epoch  7 : Train Loss 0.002570
+Epoch  8 : Train Loss 0.002233 , Train acc 0.995382, Valid acc 0.987778
+0.0022328657225201215
+Epoch  1 : Train Loss 0.114604 , Train acc 0.966867, Valid acc 0.965859
+Epoch  2 : Train Loss 0.019556
+Epoch  3 : Train Loss 0.009939
+Epoch  4 : Train Loss 0.006155
+Epoch  5 : Train Loss 0.003775
+Epoch  6 : Train Loss 0.002249 , Train acc 0.991627, Valid acc 0.982727
+Epoch  7 : Train Loss 0.001802
+Epoch  8 : Train Loss 0.001538 , Train acc 0.998213, Valid acc 0.990606
+0.0015381255367537961
+Epoch  1 : Train Loss 0.142660 , Train acc 0.966004, Valid acc 0.970505
+Epoch  2 : Train Loss 0.021854
+Epoch  3 : Train Loss 0.011604
+Epoch  4 : Train Loss 0.006807
+Epoch  5 : Train Loss 0.004379
+Epoch  6 : Train Loss 0.002540 , Train acc 0.991747, Valid acc 0.983131
+Epoch  7 : Train Loss 0.001692
+Epoch  8 : Train Loss 0.001031 , Train acc 0.999558, Valid acc 0.992727
+0.0010305840597720816
+[-0.6247049  -0.78375134 -0.67322138]
+[0.3564302  0.30401955 0.33955025]
+[0. 0. 0.]
+[[0 0 1 0]
+ [0 0 1 1]
+ [1 1 1 1]
+ [1 1 2 1]
+ [2 1 0 2]
+ [2 0 2 0]
+ [0 0 0 0]
+ [0 0 2 0]
+ [0 2 0 0]
+ [0 0 1 0]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 2 0 2]
+ [1 1 0 1]
+ [1 0 1 2]
+ [0 0 1 0]]
+[-0.55720031 -0.77542217 -0.75148805]
+[0.38060903 0.30598952 0.31340145]
+[0. 0. 0.]
+[[0 0 1 0]
+ [0 0 1 1]
+ [1 1 1 1]
+ [1 1 2 1]
+ [2 1 0 2]
+ [2 0 2 0]
+ [0 0 0 0]
+ [0 0 2 0]
+ [0 2 0 0]
+ [0 0 1 0]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 2 0 2]
+ [1 1 0 1]
+ [1 0 1 2]
+ [0 0 1 0]]
+[-0.68684912 -0.63457723 -0.75932774]
+[0.33514897 0.35313379 0.31171724]
+[0. 0. 0.]
+[[0 0 1 0]
+ [0 0 1 1]
+ [1 1 1 1]
+ [1 1 2 1]
+ [2 1 0 2]
+ [2 0 2 0]
+ [0 0 0 0]
+ [0 0 2 0]
+ [0 2 0 0]
+ [0 0 1 0]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 2 0 2]
+ [1 1 0 1]
+ [1 0 1 2]
+ [0 0 1 0]]
+[-0.74485756 -0.63894041 -0.69657939]
+[0.31633634 0.35168052 0.33198314]
+[0. 0. 0.]
+[[0 0 1 0]
+ [0 0 1 1]
+ [1 1 1 1]
+ [1 1 2 1]
+ [2 1 0 2]
+ [2 0 2 0]
+ [0 0 0 0]
+ [0 0 2 0]
+ [0 2 0 0]
+ [0 0 1 0]
+ [0 0 1 0]
+ [0 0 0 1]
+ [0 2 0 2]
+ [1 1 0 1]
+ [1 0 1 2]
+ [0 0 1 0]]
+Epoch 2 : b_values [[0.37791936 0.28949512 0.33258552]
+ [0.38348113 0.30103041 0.31548847]
+ [0.33570761 0.36394762 0.30034477]
+ [0.31436533 0.34858831 0.33704636]] 
+losse
+Epoch  1 : Train Loss 0.143162 , Train acc 0.973112, Valid acc 0.971515
+Epoch  2 : Train Loss 0.023782
+Epoch  3 : Train Loss 0.012546
+Epoch  4 : Train Loss 0.007489
+Epoch  5 : Train Loss 0.004534
+Epoch  6 : Train Loss 0.003308 , Train acc 0.980863, Valid acc 0.973232
+Epoch  7 : Train Loss 0.002118
+Epoch  8 : Train Loss 0.001366 , Train acc 0.998976, Valid acc 0.991313
+0.001365766939901126
+Epoch  1 : Train Loss 0.123898 , Train acc 0.985522, Valid acc 0.984141
+Epoch  2 : Train Loss 0.020727
+Epoch  3 : Train Loss 0.011063
+Epoch  4 : Train Loss 0.008822
+Epoch  5 : Train Loss 0.005917
+Epoch  6 : Train Loss 0.003071 , Train acc 0.996928, Valid acc 0.988788
+Epoch  7 : Train Loss 0.003241
+Epoch  8 : Train Loss 0.002038 , Train acc 0.998454, Valid acc 0.990909
+0.002037956609807831
+Epoch  1 : Train Loss 0.117746 , Train acc 0.975321, Valid acc 0.973939
+Epoch  2 : Train Loss 0.019854
+Epoch  3 : Train Loss 0.011249
+Epoch  4 : Train Loss 0.007724
+Epoch  5 : Train Loss 0.004524
+Epoch  6 : Train Loss 0.003458 , Train acc 0.976948, Valid acc 0.972525
+Epoch  7 : Train Loss 0.001884
+Epoch  8 : Train Loss 0.002645 , Train acc 0.996506, Valid acc 0.988889
+0.002645434656709161
+Epoch  1 : Train Loss 0.121955 , Train acc 0.963253, Valid acc 0.963131
+Epoch  2 : Train Loss 0.019110
+Epoch  3 : Train Loss 0.010029
+Epoch  4 : Train Loss 0.006549
+Epoch  5 : Train Loss 0.003707
+Epoch  6 : Train Loss 0.002685 , Train acc 0.995341, Valid acc 0.988788
+Epoch  7 : Train Loss 0.001286
+Epoch  8 : Train Loss 0.001111 , Train acc 0.999759, Valid acc 0.992828
+0.0011109574423365605
+Epoch  1 : Train Loss 0.117716 , Train acc 0.955944, Valid acc 0.955657
+Epoch  2 : Train Loss 0.019907
+Epoch  3 : Train Loss 0.011038
+Epoch  4 : Train Loss 0.007456
+Epoch  5 : Train Loss 0.004137
+Epoch  6 : Train Loss 0.002939 , Train acc 0.991667, Valid acc 0.983434
+Epoch  7 : Train Loss 0.001381
+Epoch  8 : Train Loss 0.000752 , Train acc 0.999618, Valid acc 0.991515
+0.000751975340390345
+Epoch  1 : Train Loss 0.128453 , Train acc 0.950100, Valid acc 0.952626
+Epoch  2 : Train Loss 0.019861
+Epoch  3 : Train Loss 0.010128
+Epoch  4 : Train Loss 0.005389
+Epoch  5 : Train Loss 0.004571
+Epoch  6 : Train Loss 0.003010 , Train acc 0.978293, Valid acc 0.973737
+Epoch  7 : Train Loss 0.002210
+Epoch  8 : Train Loss 0.000991 , Train acc 0.997088, Valid acc 0.989293
+0.0009910141001455487
+Epoch  1 : Train Loss 0.117810 , Train acc 0.975643, Valid acc 0.976869
+Epoch  2 : Train Loss 0.018793
+Epoch  3 : Train Loss 0.010114
+Epoch  4 : Train Loss 0.006310
+Epoch  5 : Train Loss 0.003519
+Epoch  6 : Train Loss 0.001629 , Train acc 0.999016, Valid acc 0.991717
+Epoch  7 : Train Loss 0.001435
+Epoch  8 : Train Loss 0.000754 , Train acc 0.999257, Valid acc 0.991313
+0.0007543281555505624
+Epoch  1 : Train Loss 0.120163 , Train acc 0.975622, Valid acc 0.975455
+Epoch  2 : Train Loss 0.020666
+Epoch  3 : Train Loss 0.011505
+Epoch  4 : Train Loss 0.006876
+Epoch  5 : Train Loss 0.004062
+Epoch  6 : Train Loss 0.002942 , Train acc 0.997831, Valid acc 0.989596
+Epoch  7 : Train Loss 0.001399
+Epoch  8 : Train Loss 0.000727 , Train acc 0.998956, Valid acc 0.990909
+0.0007272154406625001
+Epoch  1 : Train Loss 0.154337 , Train acc 0.961024, Valid acc 0.962121
+Epoch  2 : Train Loss 0.021618
+Epoch  3 : Train Loss 0.011726
+Epoch  4 : Train Loss 0.008114
+Epoch  5 : Train Loss 0.004585
+Epoch  6 : Train Loss 0.003458 , Train acc 0.989799, Valid acc 0.982929
+Epoch  7 : Train Loss 0.002138
+Epoch  8 : Train Loss 0.001431 , Train acc 0.997590, Valid acc 0.988586
+0.001430682874051854
+Epoch  1 : Train Loss 0.140122 , Train acc 0.969839, Valid acc 0.968182
+Epoch  2 : Train Loss 0.019795
+Epoch  3 : Train Loss 0.011451
+Epoch  4 : Train Loss 0.007298
+Epoch  5 : Train Loss 0.004933
+Epoch  6 : Train Loss 0.003689 , Train acc 0.993976, Valid acc 0.985152
+Epoch  7 : Train Loss 0.003399
+Epoch  8 : Train Loss 0.001895 , Train acc 0.990663, Valid acc 0.983030
+0.0018945208289854539
+Epoch  1 : Train Loss 0.147247 , Train acc 0.961044, Valid acc 0.962626
+Epoch  2 : Train Loss 0.022501
+Epoch  3 : Train Loss 0.013410
+Epoch  4 : Train Loss 0.008157
+Epoch  5 : Train Loss 0.004839
+Epoch  6 : Train Loss 0.002852 , Train acc 0.978233, Valid acc 0.975859
+Epoch  7 : Train Loss 0.001854
+Epoch  8 : Train Loss 0.001357 , Train acc 0.999056, Valid acc 0.991313
+0.001357473925842593
+Epoch  1 : Train Loss 0.115251 , Train acc 0.967831, Valid acc 0.967778
+Epoch  2 : Train Loss 0.020140
+Epoch  3 : Train Loss 0.010823
+Epoch  4 : Train Loss 0.006266
+Epoch  5 : Train Loss 0.003837
+Epoch  6 : Train Loss 0.002825 , Train acc 0.995442, Valid acc 0.988586
+Epoch  7 : Train Loss 0.001735
+Epoch  8 : Train Loss 0.001010 , Train acc 0.998233, Valid acc 0.990101
+0.0010095535621561188
+Epoch  1 : Train Loss 0.111425 , Train acc 0.976004, Valid acc 0.976465
+Epoch  2 : Train Loss 0.019092
+Epoch  3 : Train Loss 0.009874
+Epoch  4 : Train Loss 0.005610
+Epoch  5 : Train Loss 0.003854
+Epoch  6 : Train Loss 0.003130 , Train acc 0.994960, Valid acc 0.988081
+Epoch  7 : Train Loss 0.001681
+Epoch  8 : Train Loss 0.000972 , Train acc 0.999337, Valid acc 0.991414
+0.0009717649336865482
+Epoch  1 : Train Loss 0.159939 , Train acc 0.969759, Valid acc 0.972424
+Epoch  2 : Train Loss 0.022682
+Epoch  3 : Train Loss 0.012145
+Epoch  4 : Train Loss 0.007603
+Epoch  5 : Train Loss 0.004929
+Epoch  6 : Train Loss 0.004435 , Train acc 0.981647, Valid acc 0.977677
+Epoch  7 : Train Loss 0.003102
+Epoch  8 : Train Loss 0.001792 , Train acc 0.995100, Valid acc 0.988485
+0.0017918140606100982
+Epoch  1 : Train Loss 0.123671 , Train acc 0.979659, Valid acc 0.979192
+Epoch  2 : Train Loss 0.020757
+Epoch  3 : Train Loss 0.011263
+Epoch  4 : Train Loss 0.006623
+Epoch  5 : Train Loss 0.004176
+Epoch  6 : Train Loss 0.002588 , Train acc 0.994719, Valid acc 0.986364
+Epoch  7 : Train Loss 0.001473
+Epoch  8 : Train Loss 0.000755 , Train acc 0.999076, Valid acc 0.992525
+0.0007553564536404641
+Epoch  1 : Train Loss 0.141253 , Train acc 0.968213, Valid acc 0.969899
+Epoch  2 : Train Loss 0.021808
+Epoch  3 : Train Loss 0.012387
+Epoch  4 : Train Loss 0.008032
+Epoch  5 : Train Loss 0.004364
+Epoch  6 : Train Loss 0.003078 , Train acc 0.989639, Valid acc 0.984646
+Epoch  7 : Train Loss 0.002139
+Epoch  8 : Train Loss 0.002610 , Train acc 0.990221, Valid acc 0.985152
+0.0026099709596504304
+[-0.49838888 -0.89783739 -0.69651423]
+[0.40145216 0.26924988 0.32929797]
+[0. 0. 0.]
+[[0 0 1 0]
+ [1 2 2 2]
+ [1 0 2 2]
+ [1 0 1 1]
+ [1 0 0 2]
+ [0 2 0 1]
+ [0 2 0 2]
+ [1 0 1 1]
+ [2 1 0 0]
+ [1 1 2 0]
+ [0 0 1 0]
+ [0 2 1 2]
+ [0 0 0 2]
+ [2 0 0 0]
+ [0 1 0 1]
+ [0 2 1 0]]
+[-0.47479853 -0.84239596 -0.77458337]
+[0.41095212 0.28454155 0.30450633]
+[0. 0. 0.]
+[[0 0 1 0]
+ [1 2 2 2]
+ [1 0 2 2]
+ [1 0 1 1]
+ [1 0 0 2]
+ [0 2 0 1]
+ [0 2 0 2]
+ [1 0 1 1]
+ [2 1 0 0]
+ [1 1 2 0]
+ [0 0 1 0]
+ [0 2 1 2]
+ [0 0 0 2]
+ [2 0 0 0]
+ [0 1 0 1]
+ [0 2 1 0]]
+[-0.68248182 -0.55827098 -0.84565662]
+[0.33537945 0.37973492 0.28488563]
+[0. 0. 0.]
+[[0 0 1 0]
+ [1 2 2 2]
+ [1 0 2 2]
+ [1 0 1 1]
+ [1 0 0 2]
+ [0 2 0 1]
+ [0 2 0 2]
+ [1 0 1 1]
+ [2 1 0 0]
+ [1 1 2 0]
+ [0 0 1 0]
+ [0 2 1 2]
+ [0 0 0 2]
+ [2 0 0 0]
+ [0 1 0 1]
+ [0 2 1 0]]
+[-0.77978917 -0.62525023 -0.67648457]
+[0.30525507 0.35626922 0.33847571]
+[0. 0. 0.]
+[[0 0 1 0]
+ [1 2 2 2]
+ [1 0 2 2]
+ [1 0 1 1]
+ [1 0 0 2]
+ [0 2 0 1]
+ [0 2 0 2]
+ [1 0 1 1]
+ [2 1 0 0]
+ [1 1 2 0]
+ [0 0 1 0]
+ [0 2 1 2]
+ [0 0 0 2]
+ [2 0 0 0]
+ [0 1 0 1]
+ [0 2 1 0]]
+Epoch 3 : b_values [[0.41462881 0.26127007 0.32410112]
+ [0.41489596 0.2851491  0.29995495]
+ [0.35757788 0.37984543 0.2625767 ]
+ [0.28482159 0.37609605 0.33908236]] 
+losse
+Epoch  1 : Train Loss 0.146779 , Train acc 0.962671, Valid acc 0.966667
+Epoch  2 : Train Loss 0.021748
+Epoch  3 : Train Loss 0.012547
+Epoch  4 : Train Loss 0.007580
+Epoch  5 : Train Loss 0.004592
+Epoch  6 : Train Loss 0.003024 , Train acc 0.992892, Valid acc 0.986364
+Epoch  7 : Train Loss 0.002033
+Epoch  8 : Train Loss 0.001504 , Train acc 0.995141, Valid acc 0.986667
+0.0015040899215091486
+Epoch  1 : Train Loss 0.161276 , Train acc 0.975602, Valid acc 0.976869
+Epoch  2 : Train Loss 0.024124
+Epoch  3 : Train Loss 0.014411
+Epoch  4 : Train Loss 0.008951
+Epoch  5 : Train Loss 0.005763
+Epoch  6 : Train Loss 0.003811 , Train acc 0.971988, Valid acc 0.967677
+Epoch  7 : Train Loss 0.002483
+Epoch  8 : Train Loss 0.001678 , Train acc 0.997952, Valid acc 0.989798
+0.001677837593985411
+Epoch  1 : Train Loss 0.122346 , Train acc 0.939900, Valid acc 0.944141
+Epoch  2 : Train Loss 0.019126
+Epoch  3 : Train Loss 0.010731
+Epoch  4 : Train Loss 0.005313
+Epoch  5 : Train Loss 0.003433
+Epoch  6 : Train Loss 0.001572 , Train acc 0.998313, Valid acc 0.989091
+Epoch  7 : Train Loss 0.000830
+Epoch  8 : Train Loss 0.000365 , Train acc 0.999960, Valid acc 0.993535
+0.00036469030822142183
+Epoch  1 : Train Loss 0.119282 , Train acc 0.965683, Valid acc 0.964949
+Epoch  2 : Train Loss 0.020372
+Epoch  3 : Train Loss 0.011692
+Epoch  4 : Train Loss 0.006547
+Epoch  5 : Train Loss 0.005597
+Epoch  6 : Train Loss 0.002436 , Train acc 0.994578, Valid acc 0.986869
+Epoch  7 : Train Loss 0.001023
+Epoch  8 : Train Loss 0.000892 , Train acc 0.999317, Valid acc 0.991919
+0.0008920167983645418
+Epoch  1 : Train Loss 0.130116 , Train acc 0.975783, Valid acc 0.973838
+Epoch  2 : Train Loss 0.018896
+Epoch  3 : Train Loss 0.010197
+Epoch  4 : Train Loss 0.007562
+Epoch  5 : Train Loss 0.004495
+Epoch  6 : Train Loss 0.002980 , Train acc 0.990602, Valid acc 0.983636
+Epoch  7 : Train Loss 0.002670
+Epoch  8 : Train Loss 0.001477 , Train acc 0.980040, Valid acc 0.974040
+0.0014769539801636712
+Epoch  1 : Train Loss 0.122992 , Train acc 0.975361, Valid acc 0.974848
+Epoch  2 : Train Loss 0.020092
+Epoch  3 : Train Loss 0.011448
+Epoch  4 : Train Loss 0.006840
+Epoch  5 : Train Loss 0.005516
+Epoch  6 : Train Loss 0.003274 , Train acc 0.994398, Valid acc 0.986768
+Epoch  7 : Train Loss 0.001686
+Epoch  8 : Train Loss 0.001140 , Train acc 0.994036, Valid acc 0.986364
+0.0011397806427946003
+Epoch  1 : Train Loss 0.117686 , Train acc 0.964357, Valid acc 0.967172
+Epoch  2 : Train Loss 0.021102
+Epoch  3 : Train Loss 0.011524
+Epoch  4 : Train Loss 0.007800
+Epoch  5 : Train Loss 0.005728
+Epoch  6 : Train Loss 0.004165 , Train acc 0.997088, Valid acc 0.990606
+Epoch  7 : Train Loss 0.002927
+Epoch  8 : Train Loss 0.001588 , Train acc 0.999438, Valid acc 0.992525
+0.0015884363210352604
+Epoch  1 : Train Loss 0.123057 , Train acc 0.941606, Valid acc 0.946162
+Epoch  2 : Train Loss 0.019425
+Epoch  3 : Train Loss 0.010022
+Epoch  4 : Train Loss 0.006090
+Epoch  5 : Train Loss 0.004213
+Epoch  6 : Train Loss 0.002734 , Train acc 0.990863, Valid acc 0.982525
+Epoch  7 : Train Loss 0.001972
+Epoch  8 : Train Loss 0.000977 , Train acc 0.999418, Valid acc 0.991515
+0.00097671615993022
+Epoch  1 : Train Loss 0.116299 , Train acc 0.980382, Valid acc 0.980606
+Epoch  2 : Train Loss 0.020348
+Epoch  3 : Train Loss 0.010318
+Epoch  4 : Train Loss 0.006084
+Epoch  5 : Train Loss 0.004188
+Epoch  6 : Train Loss 0.003045 , Train acc 0.997691, Valid acc 0.990303
+Epoch  7 : Train Loss 0.001837
+Epoch  8 : Train Loss 0.002148 , Train acc 0.991727, Valid acc 0.984545
+0.0021483242945881404
+Epoch  1 : Train Loss 0.119287 , Train acc 0.971888, Valid acc 0.971818
+Epoch  2 : Train Loss 0.020193
+Epoch  3 : Train Loss 0.011288
+Epoch  4 : Train Loss 0.007237
+Epoch  5 : Train Loss 0.003985
+Epoch  6 : Train Loss 0.002632 , Train acc 0.996145, Valid acc 0.987677
+Epoch  7 : Train Loss 0.001565
+Epoch  8 : Train Loss 0.000645 , Train acc 0.997751, Valid acc 0.989899
+0.0006450718360429164
+Epoch  1 : Train Loss 0.124630 , Train acc 0.969116, Valid acc 0.967172
+Epoch  2 : Train Loss 0.021302
+Epoch  3 : Train Loss 0.012577
+Epoch  4 : Train Loss 0.008054
+Epoch  5 : Train Loss 0.004277
+Epoch  6 : Train Loss 0.002755 , Train acc 0.994779, Valid acc 0.986263
+Epoch  7 : Train Loss 0.001757
+Epoch  8 : Train Loss 0.001102 , Train acc 0.998313, Valid acc 0.990101
+0.0011020390823250636
+Epoch  1 : Train Loss 0.113201 , Train acc 0.952470, Valid acc 0.954444
+Epoch  2 : Train Loss 0.019570
+Epoch  3 : Train Loss 0.011032
+Epoch  4 : Train Loss 0.007136
+Epoch  5 : Train Loss 0.004573
+Epoch  6 : Train Loss 0.003567 , Train acc 0.994418, Valid acc 0.986970
+Epoch  7 : Train Loss 0.001992
+Epoch  8 : Train Loss 0.002968 , Train acc 0.997048, Valid acc 0.989394
+0.0029678117320872843
+Epoch  1 : Train Loss 0.151716 , Train acc 0.970382, Valid acc 0.966566
+Epoch  2 : Train Loss 0.021586
+Epoch  3 : Train Loss 0.012677
+Epoch  4 : Train Loss 0.008288
+Epoch  5 : Train Loss 0.004982
+Epoch  6 : Train Loss 0.003187 , Train acc 0.991104, Valid acc 0.982727
+Epoch  7 : Train Loss 0.002636
+Epoch  8 : Train Loss 0.001345 , Train acc 0.998474, Valid acc 0.989798
+0.001345041337578247
+Epoch  1 : Train Loss 0.143626 , Train acc 0.963976, Valid acc 0.962020
+Epoch  2 : Train Loss 0.021778
+Epoch  3 : Train Loss 0.012065
+Epoch  4 : Train Loss 0.007941
+Epoch  5 : Train Loss 0.004768
+Epoch  6 : Train Loss 0.002518 , Train acc 0.996546, Valid acc 0.987071
+Epoch  7 : Train Loss 0.001793
+Epoch  8 : Train Loss 0.001306 , Train acc 0.998976, Valid acc 0.991313
+0.0013060510624200105
+Epoch  1 : Train Loss 0.120456 , Train acc 0.965843, Valid acc 0.968687
+Epoch  2 : Train Loss 0.020001
+Epoch  3 : Train Loss 0.010857
+Epoch  4 : Train Loss 0.007228
+Epoch  5 : Train Loss 0.005035
+Epoch  6 : Train Loss 0.002716 , Train acc 0.995863, Valid acc 0.988384
+Epoch  7 : Train Loss 0.001618
+Epoch  8 : Train Loss 0.001184 , Train acc 0.984277, Valid acc 0.976465
+0.0011843555035981506
+Epoch  1 : Train Loss 0.144250 , Train acc 0.963855, Valid acc 0.968182
+Epoch  2 : Train Loss 0.020154
+Epoch  3 : Train Loss 0.011542
+Epoch  4 : Train Loss 0.006381
+Epoch  5 : Train Loss 0.004003
+Epoch  6 : Train Loss 0.003063 , Train acc 0.986787, Valid acc 0.980808
+Epoch  7 : Train Loss 0.001415
+Epoch  8 : Train Loss 0.000912 , Train acc 0.999618, Valid acc 0.992323
+0.0009118427346402314
+[-0.34486247 -1.03937778 -0.73498792]
+[0.45949793 0.22943486 0.31106721]
+[0. 0. 0.]
+[[1 1 0 0]
+ [0 0 0 0]
+ [0 0 1 1]
+ [0 0 2 1]
+ [2 1 2 1]
+ [2 1 2 2]
+ [2 1 1 2]
+ [1 0 1 1]
+ [0 2 0 2]
+ [0 0 1 1]
+ [1 0 0 1]
+ [2 0 1 2]
+ [0 1 0 0]
+ [2 2 1 0]
+ [0 1 1 1]
+ [0 1 1 0]]
+[-0.3437619  -0.91906181 -0.84751241]
+[0.46151086 0.25961653 0.27887261]
+[0. 0. 0.]
+[[1 1 0 0]
+ [0 0 0 0]
+ [0 0 1 1]
+ [0 0 2 1]
+ [2 1 2 1]
+ [2 1 2 2]
+ [2 1 1 2]
+ [1 0 1 1]
+ [0 2 0 2]
+ [0 0 1 1]
+ [1 0 0 1]
+ [2 0 1 2]
+ [0 1 0 0]
+ [2 2 1 0]
+ [0 1 1 1]
+ [0 1 1 0]]
+[-0.58589243 -0.49020436 -1.03261886]
+[0.36494557 0.40159185 0.23346258]
+[0. 0. 0.]
+[[1 1 0 0]
+ [0 0 0 0]
+ [0 0 1 1]
+ [0 0 2 1]
+ [2 1 2 1]
+ [2 1 2 2]
+ [2 1 1 2]
+ [1 0 1 1]
+ [0 2 0 2]
+ [0 0 1 1]
+ [1 0 0 1]
+ [2 0 1 2]
+ [0 1 0 0]
+ [2 2 1 0]
+ [0 1 1 1]
+ [0 1 1 0]]
+[-0.92066907 -0.50615187 -0.66738619]
+[0.26302725 0.39812851 0.33884424]
+[0. 0. 0.]
+[[1 1 0 0]
+ [0 0 0 0]
+ [0 0 1 1]
+ [0 0 2 1]
+ [2 1 2 1]
+ [2 1 2 2]
+ [2 1 1 2]
+ [1 0 1 1]
+ [0 2 0 2]
+ [0 0 1 1]
+ [1 0 0 1]
+ [2 0 1 2]
+ [0 1 0 0]
+ [2 2 1 0]
+ [0 1 1 1]
+ [0 1 1 0]]
+Epoch 4 : b_values [[0.4755426  0.2321919  0.29226549]
+ [0.468584   0.26045503 0.27096098]
+ [0.35289038 0.40949438 0.23761524]
+ [0.26090634 0.42732037 0.31177329]] 
+losse
+Epoch  1 : Train Loss 0.118920 , Train acc 0.970141, Valid acc 0.971111
+Epoch  2 : Train Loss 0.020826
+Epoch  3 : Train Loss 0.012271
+Epoch  4 : Train Loss 0.007117
+Epoch  5 : Train Loss 0.004247
+Epoch  6 : Train Loss 0.004033 , Train acc 0.978293, Valid acc 0.973030
+Epoch  7 : Train Loss 0.002603
+Epoch  8 : Train Loss 0.001234 , Train acc 0.996566, Valid acc 0.989495
+0.0012344893268164015
+Epoch  1 : Train Loss 0.120209 , Train acc 0.963815, Valid acc 0.962828
+Epoch  2 : Train Loss 0.017725
+Epoch  3 : Train Loss 0.010236
+Epoch  4 : Train Loss 0.006881
+Epoch  5 : Train Loss 0.004727
+Epoch  6 : Train Loss 0.002353 , Train acc 0.997831, Valid acc 0.990707
+Epoch  7 : Train Loss 0.001424
+Epoch  8 : Train Loss 0.000935 , Train acc 0.999337, Valid acc 0.992929
+0.000935433358051038
+Epoch  1 : Train Loss 0.151327 , Train acc 0.960020, Valid acc 0.963434
+Epoch  2 : Train Loss 0.022704
+Epoch  3 : Train Loss 0.012361
+Epoch  4 : Train Loss 0.007461
+Epoch  5 : Train Loss 0.004622
+Epoch  6 : Train Loss 0.003096 , Train acc 0.997068, Valid acc 0.988586
+Epoch  7 : Train Loss 0.002430
+Epoch  8 : Train Loss 0.001969 , Train acc 0.996908, Valid acc 0.989697
+0.0019694801667355932
+Epoch  1 : Train Loss 0.120319 , Train acc 0.945542, Valid acc 0.946465
+Epoch  2 : Train Loss 0.020197
+Epoch  3 : Train Loss 0.011846
+Epoch  4 : Train Loss 0.006756
+Epoch  5 : Train Loss 0.004714
+Epoch  6 : Train Loss 0.002395 , Train acc 0.994418, Valid acc 0.987475
+Epoch  7 : Train Loss 0.001894
+Epoch  8 : Train Loss 0.001043 , Train acc 0.998635, Valid acc 0.990909
+0.0010428400553792016
+Epoch  1 : Train Loss 0.125246 , Train acc 0.980944, Valid acc 0.979293
+Epoch  2 : Train Loss 0.020817
+Epoch  3 : Train Loss 0.011104
+Epoch  4 : Train Loss 0.006827
+Epoch  5 : Train Loss 0.004019
+Epoch  6 : Train Loss 0.003334 , Train acc 0.977028, Valid acc 0.973333
+Epoch  7 : Train Loss 0.002894
+Epoch  8 : Train Loss 0.001614 , Train acc 0.997490, Valid acc 0.990505
+0.0016143446467564596
+Epoch  1 : Train Loss 0.118707 , Train acc 0.978655, Valid acc 0.978384
+Epoch  2 : Train Loss 0.019879
+Epoch  3 : Train Loss 0.010331
+Epoch  4 : Train Loss 0.005805
+Epoch  5 : Train Loss 0.004923
+Epoch  6 : Train Loss 0.004207 , Train acc 0.993815, Valid acc 0.986263
+Epoch  7 : Train Loss 0.003077
+Epoch  8 : Train Loss 0.002028 , Train acc 0.998795, Valid acc 0.990707
+0.0020278941384458448
+Epoch  1 : Train Loss 0.118598 , Train acc 0.968112, Valid acc 0.968081
+Epoch  2 : Train Loss 0.020041
+Epoch  3 : Train Loss 0.010861
+Epoch  4 : Train Loss 0.007137
+Epoch  5 : Train Loss 0.005324
+Epoch  6 : Train Loss 0.003548 , Train acc 0.987691, Valid acc 0.981010
+Epoch  7 : Train Loss 0.002757
+Epoch  8 : Train Loss 0.002465 , Train acc 0.995562, Valid acc 0.989596
+0.0024651005645864644
+Epoch  1 : Train Loss 0.125803 , Train acc 0.955964, Valid acc 0.958182
+Epoch  2 : Train Loss 0.019108
+Epoch  3 : Train Loss 0.010311
+Epoch  4 : Train Loss 0.006157
+Epoch  5 : Train Loss 0.004236
+Epoch  6 : Train Loss 0.003090 , Train acc 0.988052, Valid acc 0.983030
+Epoch  7 : Train Loss 0.004147
+Epoch  8 : Train Loss 0.001910 , Train acc 0.998876, Valid acc 0.991616
+0.0019097634080875044
+Epoch  1 : Train Loss 0.140459 , Train acc 0.979116, Valid acc 0.980909
+Epoch  2 : Train Loss 0.021871
+Epoch  3 : Train Loss 0.011361
+Epoch  4 : Train Loss 0.007140
+Epoch  5 : Train Loss 0.003937
+Epoch  6 : Train Loss 0.003566 , Train acc 0.982289, Valid acc 0.978283
+Epoch  7 : Train Loss 0.002563
+Epoch  8 : Train Loss 0.001979 , Train acc 0.995663, Valid acc 0.986768
+0.0019786866083935212
+Epoch  1 : Train Loss 0.126766 , Train acc 0.966426, Valid acc 0.965859
+Epoch  2 : Train Loss 0.020382
+Epoch  3 : Train Loss 0.010396
+Epoch  4 : Train Loss 0.006130
+Epoch  5 : Train Loss 0.003720
+Epoch  6 : Train Loss 0.002527 , Train acc 0.992390, Valid acc 0.984646
+Epoch  7 : Train Loss 0.001695
+Epoch  8 : Train Loss 0.001207 , Train acc 0.999357, Valid acc 0.993030
+0.0012074501831375528
+Epoch  1 : Train Loss 0.145762 , Train acc 0.927671, Valid acc 0.927879
+Epoch  2 : Train Loss 0.020997
+Epoch  3 : Train Loss 0.011981
+Epoch  4 : Train Loss 0.006526
+Epoch  5 : Train Loss 0.004714
+Epoch  6 : Train Loss 0.003086 , Train acc 0.987390, Valid acc 0.980909
+Epoch  7 : Train Loss 0.002381
+Epoch  8 : Train Loss 0.001792 , Train acc 0.996586, Valid acc 0.988485
+0.0017917288689447257
+Epoch  1 : Train Loss 0.120765 , Train acc 0.973715, Valid acc 0.973636
+Epoch  2 : Train Loss 0.021135
+Epoch  3 : Train Loss 0.012214
+Epoch  4 : Train Loss 0.006315
+Epoch  5 : Train Loss 0.004061
+Epoch  6 : Train Loss 0.002899 , Train acc 0.991104, Valid acc 0.984444
+Epoch  7 : Train Loss 0.001785
+Epoch  8 : Train Loss 0.002183 , Train acc 0.998494, Valid acc 0.990808
+0.0021825762120230743
+Epoch  1 : Train Loss 0.124168 , Train acc 0.981024, Valid acc 0.981919
+Epoch  2 : Train Loss 0.020522
+Epoch  3 : Train Loss 0.011346
+Epoch  4 : Train Loss 0.007653
+Epoch  5 : Train Loss 0.005233
+Epoch  6 : Train Loss 0.004075 , Train acc 0.990904, Valid acc 0.986566
+Epoch  7 : Train Loss 0.003284
+Epoch  8 : Train Loss 0.002257 , Train acc 0.991687, Valid acc 0.984141
+0.0022573494472696133
+Epoch  1 : Train Loss 0.123236 , Train acc 0.980261, Valid acc 0.980303
+Epoch  2 : Train Loss 0.020174
+Epoch  3 : Train Loss 0.011622
+Epoch  4 : Train Loss 0.007039
+Epoch  5 : Train Loss 0.004074
+Epoch  6 : Train Loss 0.002922 , Train acc 0.991365, Valid acc 0.982828
+Epoch  7 : Train Loss 0.002277
+Epoch  8 : Train Loss 0.001023 , Train acc 0.998896, Valid acc 0.990606
+0.0010233320510208918
+Epoch  1 : Train Loss 0.144528 , Train acc 0.959759, Valid acc 0.958990
+Epoch  2 : Train Loss 0.020606
+Epoch  3 : Train Loss 0.011338
+Epoch  4 : Train Loss 0.007438
+Epoch  5 : Train Loss 0.005051
+Epoch  6 : Train Loss 0.002781 , Train acc 0.988775, Valid acc 0.981111
+Epoch  7 : Train Loss 0.002971
+Epoch  8 : Train Loss 0.002012 , Train acc 0.997450, Valid acc 0.991010
+0.002011607167951297
+Epoch  1 : Train Loss 0.123993 , Train acc 0.970582, Valid acc 0.971919
+Epoch  2 : Train Loss 0.021554
+Epoch  3 : Train Loss 0.011594
+Epoch  4 : Train Loss 0.007667
+Epoch  5 : Train Loss 0.004884
+Epoch  6 : Train Loss 0.003745 , Train acc 0.987972, Valid acc 0.979596
+Epoch  7 : Train Loss 0.002765
+Epoch  8 : Train Loss 0.002087 , Train acc 0.969900, Valid acc 0.965354
+0.0020867718188552925
+[-0.09790773 -1.19597562 -0.88440641]
+[0.55898665 0.18643035 0.254583  ]
+[0. 0. 0.]
+[[1 1 2 2]
+ [0 0 1 1]
+ [0 2 0 0]
+ [2 0 1 2]
+ [2 1 2 1]
+ [1 1 2 2]
+ [2 2 1 2]
+ [0 2 0 1]
+ [2 2 1 0]
+ [0 2 0 1]
+ [2 0 2 0]
+ [1 0 1 1]
+ [1 2 2 1]
+ [1 1 0 1]
+ [1 2 1 0]
+ [1 2 2 2]]
+[-0.12582978 -1.0436049  -0.98975244]
+[0.54917533 0.2193443  0.23148037]
+[0. 0. 0.]
+[[1 1 2 2]
+ [0 0 1 1]
+ [0 2 0 0]
+ [2 0 1 2]
+ [2 1 2 1]
+ [1 1 2 2]
+ [2 2 1 2]
+ [0 2 0 1]
+ [2 2 1 0]
+ [0 2 0 1]
+ [2 0 2 0]
+ [1 0 1 1]
+ [1 2 2 1]
+ [1 1 0 1]
+ [1 2 1 0]
+ [1 2 2 2]]
+[-0.60635825 -0.36605597 -1.16579863]
+[0.35172104 0.44726025 0.20101871]
+[0. 0. 0.]
+[[1 1 2 2]
+ [0 0 1 1]
+ [0 2 0 0]
+ [2 0 1 2]
+ [2 1 2 1]
+ [1 1 2 2]
+ [2 2 1 2]
+ [0 2 0 1]
+ [2 2 1 0]
+ [0 2 0 1]
+ [2 0 2 0]
+ [1 0 1 1]
+ [1 2 2 1]
+ [1 1 0 1]
+ [1 2 1 0]
+ [1 2 2 2]]
+[-1.04126318 -0.29279242 -0.79184201]
+[0.22742533 0.48072374 0.29185093]
+[0. 0. 0.]
+[[1 1 2 2]
+ [0 0 1 1]
+ [0 2 0 0]
+ [2 0 1 2]
+ [2 1 2 1]
+ [1 1 2 2]
+ [2 2 1 2]
+ [0 2 0 1]
+ [2 2 1 0]
+ [0 2 0 1]
+ [2 0 2 0]
+ [1 0 1 1]
+ [1 2 2 1]
+ [1 1 0 1]
+ [1 2 1 0]
+ [1 2 2 2]]
+Epoch 5 : b_values [[0.56550833 0.18217383 0.25231784]
+ [0.55648819 0.22520858 0.21830323]
+ [0.35805158 0.44471693 0.19723149]
+ [0.22172988 0.48857977 0.28969035]] 
+losse
+Epoch  1 : Train Loss 0.141783 , Train acc 0.977671, Valid acc 0.976465
+Epoch  2 : Train Loss 0.021415
+Epoch  3 : Train Loss 0.011805
+Epoch  4 : Train Loss 0.006734
+Epoch  5 : Train Loss 0.004225
+Epoch  6 : Train Loss 0.002534 , Train acc 0.995582, Valid acc 0.986465
+Epoch  7 : Train Loss 0.001925
+Epoch  8 : Train Loss 0.001104 , Train acc 0.999839, Valid acc 0.991818
+0.0011038283516730492
+Epoch  1 : Train Loss 0.144144 , Train acc 0.957349, Valid acc 0.962525
+Epoch  2 : Train Loss 0.019801
+Epoch  3 : Train Loss 0.011207
+Epoch  4 : Train Loss 0.006634
+Epoch  5 : Train Loss 0.004478
+Epoch  6 : Train Loss 0.002971 , Train acc 0.993976, Valid acc 0.988283
+Epoch  7 : Train Loss 0.002216
+Epoch  8 : Train Loss 0.001515 , Train acc 0.998996, Valid acc 0.991515
+0.0015148310376874481
+Epoch  1 : Train Loss 0.123311 , Train acc 0.970241, Valid acc 0.970202
+Epoch  2 : Train Loss 0.019692
+Epoch  3 : Train Loss 0.010173
+Epoch  4 : Train Loss 0.005606
+Epoch  5 : Train Loss 0.003603
+Epoch  6 : Train Loss 0.002104 , Train acc 0.986847, Valid acc 0.979091
+Epoch  7 : Train Loss 0.001917
+Epoch  8 : Train Loss 0.000624 , Train acc 0.999498, Valid acc 0.992121
+0.0006237987168424297
+Epoch  1 : Train Loss 0.123472 , Train acc 0.982530, Valid acc 0.980808
+Epoch  2 : Train Loss 0.020646
+Epoch  3 : Train Loss 0.010816
+Epoch  4 : Train Loss 0.006198
+Epoch  5 : Train Loss 0.003172
+Epoch  6 : Train Loss 0.002155 , Train acc 0.996145, Valid acc 0.986768
+Epoch  7 : Train Loss 0.001241
+Epoch  8 : Train Loss 0.000839 , Train acc 0.999859, Valid acc 0.991414
+0.0008387934811859547
+Epoch  1 : Train Loss 0.126384 , Train acc 0.973293, Valid acc 0.974848
+Epoch  2 : Train Loss 0.018843
+Epoch  3 : Train Loss 0.009878
+Epoch  4 : Train Loss 0.005679
+Epoch  5 : Train Loss 0.003517
+Epoch  6 : Train Loss 0.003084 , Train acc 0.993735, Valid acc 0.985253
+Epoch  7 : Train Loss 0.001845
+Epoch  8 : Train Loss 0.001445 , Train acc 0.994076, Valid acc 0.986667
+0.0014448846821809031
+Epoch  1 : Train Loss 0.126504 , Train acc 0.966908, Valid acc 0.969293
+Epoch  2 : Train Loss 0.020897
+Epoch  3 : Train Loss 0.011578
+Epoch  4 : Train Loss 0.007397
+Epoch  5 : Train Loss 0.005402
+Epoch  6 : Train Loss 0.003316 , Train acc 0.991466, Valid acc 0.985960
+Epoch  7 : Train Loss 0.002005
+Epoch  8 : Train Loss 0.001115 , Train acc 0.998855, Valid acc 0.993131
+0.0011150589767688263
+Epoch  1 : Train Loss 0.127416 , Train acc 0.929378, Valid acc 0.925556
+Epoch  2 : Train Loss 0.019832
+Epoch  3 : Train Loss 0.010288
+Epoch  4 : Train Loss 0.006796
+Epoch  5 : Train Loss 0.004469
+Epoch  6 : Train Loss 0.003366 , Train acc 0.980643, Valid acc 0.972828
+Epoch  7 : Train Loss 0.001823
+Epoch  8 : Train Loss 0.001381 , Train acc 0.998494, Valid acc 0.991717
+0.0013810845575062559
+Epoch  1 : Train Loss 0.141227 , Train acc 0.965783, Valid acc 0.967071
+Epoch  2 : Train Loss 0.022476
+Epoch  3 : Train Loss 0.012914
+Epoch  4 : Train Loss 0.007849
+Epoch  5 : Train Loss 0.004661
+Epoch  6 : Train Loss 0.002659 , Train acc 0.995643, Valid acc 0.988384
+Epoch  7 : Train Loss 0.001383
+Epoch  8 : Train Loss 0.000733 , Train acc 0.999920, Valid acc 0.992727
+0.0007325777218405467
+Epoch  1 : Train Loss 0.141827 , Train acc 0.980783, Valid acc 0.980000
+Epoch  2 : Train Loss 0.019745
+Epoch  3 : Train Loss 0.010257
+Epoch  4 : Train Loss 0.006338
+Epoch  5 : Train Loss 0.003777
+Epoch  6 : Train Loss 0.003001 , Train acc 0.984036, Valid acc 0.979798
+Epoch  7 : Train Loss 0.001582
+Epoch  8 : Train Loss 0.001031 , Train acc 0.999378, Valid acc 0.991919
+0.0010314453359266432
+Epoch  1 : Train Loss 0.112853 , Train acc 0.961948, Valid acc 0.962424
+Epoch  2 : Train Loss 0.019233
+Epoch  3 : Train Loss 0.010880
+Epoch  4 : Train Loss 0.006868
+Epoch  5 : Train Loss 0.004458
+Epoch  6 : Train Loss 0.002514 , Train acc 0.988253, Valid acc 0.982020
+Epoch  7 : Train Loss 0.001254
+Epoch  8 : Train Loss 0.001308 , Train acc 0.999819, Valid acc 0.992424
+0.0013076815556269138
+Epoch  1 : Train Loss 0.141447 , Train acc 0.974337, Valid acc 0.973838
+Epoch  2 : Train Loss 0.020983
+Epoch  3 : Train Loss 0.011672
+Epoch  4 : Train Loss 0.006860
+Epoch  5 : Train Loss 0.004263
+Epoch  6 : Train Loss 0.003025 , Train acc 0.988695, Valid acc 0.980404
+Epoch  7 : Train Loss 0.001608
+Epoch  8 : Train Loss 0.000724 , Train acc 0.999498, Valid acc 0.991919
+0.0007241057566231272
+Epoch  1 : Train Loss 0.125232 , Train acc 0.969900, Valid acc 0.968788
+Epoch  2 : Train Loss 0.019799
+Epoch  3 : Train Loss 0.010153
+Epoch  4 : Train Loss 0.006920
+Epoch  5 : Train Loss 0.004537
+Epoch  6 : Train Loss 0.002529 , Train acc 0.996888, Valid acc 0.989596
+Epoch  7 : Train Loss 0.001979
+Epoch  8 : Train Loss 0.001206 , Train acc 0.996928, Valid acc 0.990000
+0.0012061775878828484
+Epoch  1 : Train Loss 0.122053 , Train acc 0.954418, Valid acc 0.956667
+Epoch  2 : Train Loss 0.018406
+Epoch  3 : Train Loss 0.009846
+Epoch  4 : Train Loss 0.004902
+Epoch  5 : Train Loss 0.003054
+Epoch  6 : Train Loss 0.001797 , Train acc 0.996727, Valid acc 0.988788
+Epoch  7 : Train Loss 0.001722
+Epoch  8 : Train Loss 0.000990 , Train acc 0.995643, Valid acc 0.985960
+0.0009900255491569017
+Epoch  1 : Train Loss 0.121543 , Train acc 0.984277, Valid acc 0.984141
+Epoch  2 : Train Loss 0.019965
+Epoch  3 : Train Loss 0.010634
+Epoch  4 : Train Loss 0.006879
+Epoch  5 : Train Loss 0.005559
+Epoch  6 : Train Loss 0.004472 , Train acc 0.987369, Valid acc 0.981616
+Epoch  7 : Train Loss 0.002958
+Epoch  8 : Train Loss 0.001855 , Train acc 0.981124, Valid acc 0.974444
+0.0018548328135026774
+Epoch  1 : Train Loss 0.121432 , Train acc 0.958293, Valid acc 0.959192
+Epoch  2 : Train Loss 0.020181
+Epoch  3 : Train Loss 0.011117
+Epoch  4 : Train Loss 0.006483
+Epoch  5 : Train Loss 0.003993
+Epoch  6 : Train Loss 0.002243 , Train acc 0.991707, Valid acc 0.984444
+Epoch  7 : Train Loss 0.001336
+Epoch  8 : Train Loss 0.000807 , Train acc 0.999799, Valid acc 0.992828
+0.0008074905659304931
+Epoch  1 : Train Loss 0.115141 , Train acc 0.974880, Valid acc 0.975556
+Epoch  2 : Train Loss 0.020778
+Epoch  3 : Train Loss 0.010978
+Epoch  4 : Train Loss 0.006764
+Epoch  5 : Train Loss 0.004688
+Epoch  6 : Train Loss 0.004545 , Train acc 0.993675, Valid acc 0.985556
+Epoch  7 : Train Loss 0.003395
+Epoch  8 : Train Loss 0.001466 , Train acc 0.999056, Valid acc 0.992121
+0.0014656442071524604
+[ 0.26354826 -1.50168845 -1.08628842]
+[0.69909103 0.11964682 0.18126214]
+[0. 0. 0.]
+[[0 0 2 0]
+ [1 2 1 0]
+ [0 2 0 1]
+ [0 0 0 1]
+ [2 0 1 1]
+ [2 0 0 1]
+ [1 0 1 1]
+ [0 0 1 0]
+ [1 0 2 0]
+ [2 0 0 2]
+ [0 1 2 0]
+ [1 0 2 1]
+ [0 1 1 1]
+ [0 2 1 2]
+ [0 0 0 1]
+ [2 0 2 2]]
+[ 0.22692151 -1.23556687 -1.27558182]
+[0.68764848 0.15930003 0.1530515 ]
+[0. 0. 0.]
+[[0 0 2 0]
+ [1 2 1 0]
+ [0 2 0 1]
+ [0 0 0 1]
+ [2 0 1 1]
+ [2 0 0 1]
+ [1 0 1 1]
+ [0 0 1 0]
+ [1 0 2 0]
+ [2 0 0 2]
+ [0 1 2 0]
+ [1 0 2 1]
+ [0 1 1 1]
+ [0 2 1 2]
+ [0 0 0 1]
+ [2 0 2 2]]
+[-0.58383091 -0.22204006 -1.40368825]
+[0.34765763 0.4992011  0.15314127]
+[0. 0. 0.]
+[[0 0 2 0]
+ [1 2 1 0]
+ [0 2 0 1]
+ [0 0 0 1]
+ [2 0 1 1]
+ [2 0 0 1]
+ [1 0 1 1]
+ [0 0 1 0]
+ [1 0 2 0]
+ [2 0 0 2]
+ [0 1 2 0]
+ [1 0 2 1]
+ [0 1 1 1]
+ [0 2 1 2]
+ [0 0 0 1]
+ [2 0 2 2]]
+[-1.25561378 -0.04568886 -0.89688842]
+[0.17286872 0.57966908 0.2474622 ]
+[0. 0. 0.]
+[[0 0 2 0]
+ [1 2 1 0]
+ [0 2 0 1]
+ [0 0 0 1]
+ [2 0 1 1]
+ [2 0 0 1]
+ [1 0 1 1]
+ [0 0 1 0]
+ [1 0 2 0]
+ [2 0 0 2]
+ [0 1 2 0]
+ [1 0 2 1]
+ [0 1 1 1]
+ [0 2 1 2]
+ [0 0 0 1]
+ [2 0 2 2]]
+Epoch 6 : b_values [[0.71081367 0.1154697  0.17371663]
+ [0.68781054 0.16337109 0.14881837]
+ [0.36070071 0.48490218 0.15439711]
+ [0.17714784 0.58794678 0.23490538]] 
+losse
+Epoch  1 : Train Loss 0.115900 , Train acc 0.974960, Valid acc 0.974242
+Epoch  2 : Train Loss 0.019234
+Epoch  3 : Train Loss 0.010341
+Epoch  4 : Train Loss 0.005898
+Epoch  5 : Train Loss 0.003769
+Epoch  6 : Train Loss 0.002833 , Train acc 0.988213, Valid acc 0.982525
+Epoch  7 : Train Loss 0.002601
+Epoch  8 : Train Loss 0.001432 , Train acc 0.998012, Valid acc 0.990101
+0.001432352139430198
+Epoch  1 : Train Loss 0.122031 , Train acc 0.972108, Valid acc 0.969697
+Epoch  2 : Train Loss 0.019795
+Epoch  3 : Train Loss 0.010453
+Epoch  4 : Train Loss 0.006577
+Epoch  5 : Train Loss 0.003724
+Epoch  6 : Train Loss 0.002717 , Train acc 0.994357, Valid acc 0.986263
+Epoch  7 : Train Loss 0.001587
+Epoch  8 : Train Loss 0.001006 , Train acc 0.999498, Valid acc 0.991717
+0.001005797424101426
+Epoch  1 : Train Loss 0.121751 , Train acc 0.979618, Valid acc 0.978283
+Epoch  2 : Train Loss 0.020216
+Epoch  3 : Train Loss 0.010522
+Epoch  4 : Train Loss 0.005909
+Epoch  5 : Train Loss 0.003207
+Epoch  6 : Train Loss 0.002021 , Train acc 0.987791, Valid acc 0.980606
+Epoch  7 : Train Loss 0.001189
+Epoch  8 : Train Loss 0.000611 , Train acc 0.999839, Valid acc 0.992929
+0.000611064752592938
+Epoch  1 : Train Loss 0.123005 , Train acc 0.949518, Valid acc 0.950101
+Epoch  2 : Train Loss 0.021158
+Epoch  3 : Train Loss 0.011710
+Epoch  4 : Train Loss 0.007771
+Epoch  5 : Train Loss 0.004537
+Epoch  6 : Train Loss 0.002976 , Train acc 0.995602, Valid acc 0.988485
+Epoch  7 : Train Loss 0.001866
+Epoch  8 : Train Loss 0.001246 , Train acc 0.999398, Valid acc 0.993737
+0.0012462737990426831
+Epoch  1 : Train Loss 0.121149 , Train acc 0.970542, Valid acc 0.972323
+Epoch  2 : Train Loss 0.018207
+Epoch  3 : Train Loss 0.009676
+Epoch  4 : Train Loss 0.005513
+Epoch  5 : Train Loss 0.003204
+Epoch  6 : Train Loss 0.002244 , Train acc 0.996446, Valid acc 0.988788
+Epoch  7 : Train Loss 0.001273
+Epoch  8 : Train Loss 0.000783 , Train acc 0.999719, Valid acc 0.992525
+0.0007827297879460578
+Epoch  1 : Train Loss 0.116060 , Train acc 0.953996, Valid acc 0.956667
+Epoch  2 : Train Loss 0.021110
+Epoch  3 : Train Loss 0.011496
+Epoch  4 : Train Loss 0.006928
+Epoch  5 : Train Loss 0.003563
+Epoch  6 : Train Loss 0.001779 , Train acc 0.996265, Valid acc 0.987071
+Epoch  7 : Train Loss 0.001251
+Epoch  8 : Train Loss 0.000497 , Train acc 0.999739, Valid acc 0.992222
+0.0004974893680628156
+Epoch  1 : Train Loss 0.122936 , Train acc 0.968253, Valid acc 0.970404
+Epoch  2 : Train Loss 0.021152
+Epoch  3 : Train Loss 0.012274
+Epoch  4 : Train Loss 0.007524
+Epoch  5 : Train Loss 0.004784
+Epoch  6 : Train Loss 0.002988 , Train acc 0.994679, Valid acc 0.987273
+Epoch  7 : Train Loss 0.001963
+Epoch  8 : Train Loss 0.000849 , Train acc 0.998815, Valid acc 0.991313
+0.0008493017165649993
+Epoch  1 : Train Loss 0.126868 , Train acc 0.977791, Valid acc 0.978586
+Epoch  2 : Train Loss 0.020524
+Epoch  3 : Train Loss 0.011081
+Epoch  4 : Train Loss 0.006603
+Epoch  5 : Train Loss 0.003629
+Epoch  6 : Train Loss 0.002241 , Train acc 0.996606, Valid acc 0.988990
+Epoch  7 : Train Loss 0.001442
+Epoch  8 : Train Loss 0.000913 , Train acc 0.999378, Valid acc 0.992727
+0.0009128841628747371
+Epoch  1 : Train Loss 0.118082 , Train acc 0.951305, Valid acc 0.950707
+Epoch  2 : Train Loss 0.021286
+Epoch  3 : Train Loss 0.011210
+Epoch  4 : Train Loss 0.006742
+Epoch  5 : Train Loss 0.004601
+Epoch  6 : Train Loss 0.002909 , Train acc 0.990382, Valid acc 0.984747
+Epoch  7 : Train Loss 0.001826
+Epoch  8 : Train Loss 0.001318 , Train acc 0.999317, Valid acc 0.992525
+0.001317656399817982
+Epoch  1 : Train Loss 0.120900 , Train acc 0.971044, Valid acc 0.972222
+Epoch  2 : Train Loss 0.019915
+Epoch  3 : Train Loss 0.010438
+Epoch  4 : Train Loss 0.006506
+Epoch  5 : Train Loss 0.004512
+Epoch  6 : Train Loss 0.003834 , Train acc 0.990683, Valid acc 0.985051
+Epoch  7 : Train Loss 0.002613
+Epoch  8 : Train Loss 0.001416 , Train acc 0.998775, Valid acc 0.991515
+0.0014156915235313742
+Epoch  1 : Train Loss 0.127235 , Train acc 0.950944, Valid acc 0.952626
+Epoch  2 : Train Loss 0.021814
+Epoch  3 : Train Loss 0.011799
+Epoch  4 : Train Loss 0.007056
+Epoch  5 : Train Loss 0.004010
+Epoch  6 : Train Loss 0.002512 , Train acc 0.987751, Valid acc 0.981717
+Epoch  7 : Train Loss 0.002078
+Epoch  8 : Train Loss 0.001145 , Train acc 0.998052, Valid acc 0.991212
+0.0011452198918656602
+Epoch  1 : Train Loss 0.144920 , Train acc 0.973353, Valid acc 0.975455
+Epoch  2 : Train Loss 0.022213
+Epoch  3 : Train Loss 0.013395
+Epoch  4 : Train Loss 0.007980
+Epoch  5 : Train Loss 0.004401
+Epoch  6 : Train Loss 0.002572 , Train acc 0.996165, Valid acc 0.988990
+Epoch  7 : Train Loss 0.001598
+Epoch  8 : Train Loss 0.000949 , Train acc 0.999297, Valid acc 0.990707
+0.0009490916260013667
+Epoch  1 : Train Loss 0.122215 , Train acc 0.970582, Valid acc 0.971313
+Epoch  2 : Train Loss 0.020519
+Epoch  3 : Train Loss 0.010717
+Epoch  4 : Train Loss 0.006961
+Epoch  5 : Train Loss 0.003528
+Epoch  6 : Train Loss 0.001972 , Train acc 0.988976, Valid acc 0.981515
+Epoch  7 : Train Loss 0.001144
+Epoch  8 : Train Loss 0.000828 , Train acc 0.999719, Valid acc 0.992323
+0.0008282990425747509
+Epoch  1 : Train Loss 0.151337 , Train acc 0.941627, Valid acc 0.943131
+Epoch  2 : Train Loss 0.022433
+Epoch  3 : Train Loss 0.012913
+Epoch  4 : Train Loss 0.007940
+Epoch  5 : Train Loss 0.005989
+Epoch  6 : Train Loss 0.003614 , Train acc 0.994779, Valid acc 0.987374
+Epoch  7 : Train Loss 0.002297
+Epoch  8 : Train Loss 0.001751 , Train acc 0.997691, Valid acc 0.989798
+0.0017514028466151406
+Epoch  1 : Train Loss 0.122903 , Train acc 0.976767, Valid acc 0.975253
+Epoch  2 : Train Loss 0.019736
+Epoch  3 : Train Loss 0.010210
+Epoch  4 : Train Loss 0.005259
+Epoch  5 : Train Loss 0.003592
+Epoch  6 : Train Loss 0.003654 , Train acc 0.994378, Valid acc 0.985859
+Epoch  7 : Train Loss 0.002412
+Epoch  8 : Train Loss 0.000972 , Train acc 0.998092, Valid acc 0.989192
+0.000972238838900618
+Epoch  1 : Train Loss 0.123546 , Train acc 0.938715, Valid acc 0.937273
+Epoch  2 : Train Loss 0.021209
+Epoch  3 : Train Loss 0.011477
+Epoch  4 : Train Loss 0.006550
+Epoch  5 : Train Loss 0.003904
+Epoch  6 : Train Loss 0.002368 , Train acc 0.992992, Valid acc 0.984444
+Epoch  7 : Train Loss 0.001403
+Epoch  8 : Train Loss 0.000781 , Train acc 0.999859, Valid acc 0.991717
+0.0007814809504877
+[ 0.8993391  -2.03604862 -1.55951235]
+[0.8782382  0.04664334 0.07511846]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [2 0 1 1]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 0 1]
+ [0 0 0 1]
+ [2 0 1 2]
+ [0 1 2 1]
+ [1 0 1 1]
+ [0 0 1 0]
+ [0 0 1 1]
+ [2 0 0 0]
+ [0 0 2 1]
+ [0 0 0 1]]
+[ 0.78990316 -1.63335636 -1.74389896]
+[0.85617247 0.07588449 0.06794304]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [2 0 1 1]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 0 1]
+ [0 0 0 1]
+ [2 0 1 2]
+ [0 1 2 1]
+ [1 0 1 1]
+ [0 0 1 0]
+ [0 0 1 1]
+ [2 0 0 0]
+ [0 0 2 1]
+ [0 0 0 1]]
+[-0.57232416 -0.06040966 -1.7005219 ]
+[0.3342136  0.55762953 0.10815686]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [2 0 1 1]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 0 1]
+ [0 0 0 1]
+ [2 0 1 2]
+ [0 1 2 1]
+ [1 0 1 1]
+ [0 0 1 0]
+ [0 0 1 1]
+ [2 0 0 0]
+ [0 0 2 1]
+ [0 0 0 1]]
+[-1.5357919   0.35548391 -1.18081671]
+[0.11044886 0.73203503 0.15751611]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [2 0 1 1]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 0 1]
+ [0 0 0 1]
+ [2 0 1 2]
+ [0 1 2 1]
+ [1 0 1 1]
+ [0 0 1 0]
+ [0 0 1 1]
+ [2 0 0 0]
+ [0 0 2 1]
+ [0 0 0 1]]
+Epoch 7 : b_values [[0.88391431 0.04617899 0.0699067 ]
+ [0.85796792 0.07417439 0.06785769]
+ [0.33830964 0.55568361 0.10600675]
+ [0.10640197 0.73454652 0.15905151]] 
+losse
+Epoch  1 : Train Loss 0.120468 , Train acc 0.972329, Valid acc 0.970505
+Epoch  2 : Train Loss 0.021064
+Epoch  3 : Train Loss 0.011001
+Epoch  4 : Train Loss 0.006140
+Epoch  5 : Train Loss 0.003768
+Epoch  6 : Train Loss 0.002714 , Train acc 0.993936, Valid acc 0.986162
+Epoch  7 : Train Loss 0.001748
+Epoch  8 : Train Loss 0.000828 , Train acc 0.998755, Valid acc 0.991212
+0.0008282756972281883
+Epoch  1 : Train Loss 0.124325 , Train acc 0.977892, Valid acc 0.977576
+Epoch  2 : Train Loss 0.020602
+Epoch  3 : Train Loss 0.010776
+Epoch  4 : Train Loss 0.006803
+Epoch  5 : Train Loss 0.003914
+Epoch  6 : Train Loss 0.002578 , Train acc 0.974317, Valid acc 0.970101
+Epoch  7 : Train Loss 0.002716
+Epoch  8 : Train Loss 0.001448 , Train acc 0.998976, Valid acc 0.991111
+0.0014477718781078389
+Epoch  1 : Train Loss 0.122605 , Train acc 0.968976, Valid acc 0.968384
+Epoch  2 : Train Loss 0.020790
+Epoch  3 : Train Loss 0.010996
+Epoch  4 : Train Loss 0.006388
+Epoch  5 : Train Loss 0.003458
+Epoch  6 : Train Loss 0.001981 , Train acc 0.988795, Valid acc 0.981414
+Epoch  7 : Train Loss 0.001226
+Epoch  8 : Train Loss 0.000992 , Train acc 0.999438, Valid acc 0.992626
+0.0009921497069687272
+Epoch  1 : Train Loss 0.117766 , Train acc 0.976225, Valid acc 0.976465
+Epoch  2 : Train Loss 0.019733
+Epoch  3 : Train Loss 0.010981
+Epoch  4 : Train Loss 0.006395
+Epoch  5 : Train Loss 0.004400
+Epoch  6 : Train Loss 0.003905 , Train acc 0.991386, Valid acc 0.984141
+Epoch  7 : Train Loss 0.003666
+Epoch  8 : Train Loss 0.002667 , Train acc 0.979518, Valid acc 0.970606
+0.0026668502865747237
+Epoch  1 : Train Loss 0.118635 , Train acc 0.971767, Valid acc 0.972323
+Epoch  2 : Train Loss 0.020375
+Epoch  3 : Train Loss 0.010381
+Epoch  4 : Train Loss 0.007207
+Epoch  5 : Train Loss 0.005229
+Epoch  6 : Train Loss 0.003404 , Train acc 0.996526, Valid acc 0.989192
+Epoch  7 : Train Loss 0.001943
+Epoch  8 : Train Loss 0.002047 , Train acc 0.998153, Valid acc 0.991414
+0.0020467894213895004
+Epoch  1 : Train Loss 0.156504 , Train acc 0.962731, Valid acc 0.963939
+Epoch  2 : Train Loss 0.024887
+Epoch  3 : Train Loss 0.014841
+Epoch  4 : Train Loss 0.009675
+Epoch  5 : Train Loss 0.006223
+Epoch  6 : Train Loss 0.003762 , Train acc 0.990803, Valid acc 0.984545
+Epoch  7 : Train Loss 0.002324
+Epoch  8 : Train Loss 0.001653 , Train acc 0.997791, Valid acc 0.988990
+0.0016533327508174503
+Epoch  1 : Train Loss 0.117060 , Train acc 0.983313, Valid acc 0.980303
+Epoch  2 : Train Loss 0.019499
+Epoch  3 : Train Loss 0.010711
+Epoch  4 : Train Loss 0.006323
+Epoch  5 : Train Loss 0.004111
+Epoch  6 : Train Loss 0.002849 , Train acc 0.993855, Valid acc 0.984545
+Epoch  7 : Train Loss 0.001745
+Epoch  8 : Train Loss 0.000759 , Train acc 0.999759, Valid acc 0.993636
+0.0007594190436551192
+Epoch  1 : Train Loss 0.111643 , Train acc 0.961948, Valid acc 0.962424
+Epoch  2 : Train Loss 0.019646
+Epoch  3 : Train Loss 0.009938
+Epoch  4 : Train Loss 0.005552
+Epoch  5 : Train Loss 0.003232
+Epoch  6 : Train Loss 0.002345 , Train acc 0.997048, Valid acc 0.989495
+Epoch  7 : Train Loss 0.001526
+Epoch  8 : Train Loss 0.000938 , Train acc 0.999518, Valid acc 0.991515
+0.0009384459045880552
+Epoch  1 : Train Loss 0.126513 , Train acc 0.963896, Valid acc 0.965354
+Epoch  2 : Train Loss 0.020516
+Epoch  3 : Train Loss 0.010679
+Epoch  4 : Train Loss 0.006133
+Epoch  5 : Train Loss 0.003801
+Epoch  6 : Train Loss 0.002533 , Train acc 0.988193, Valid acc 0.981111
+Epoch  7 : Train Loss 0.001360
+Epoch  8 : Train Loss 0.000920 , Train acc 0.998153, Valid acc 0.990707
+0.0009204160397833524
+Epoch  1 : Train Loss 0.126336 , Train acc 0.972169, Valid acc 0.972525
+Epoch  2 : Train Loss 0.020804
+Epoch  3 : Train Loss 0.010816
+Epoch  4 : Train Loss 0.006732
+Epoch  5 : Train Loss 0.003791
+Epoch  6 : Train Loss 0.002121 , Train acc 0.994940, Valid acc 0.986465
+Epoch  7 : Train Loss 0.001705
+Epoch  8 : Train Loss 0.001099 , Train acc 0.998273, Valid acc 0.988990
+0.0010992207599095612
+Epoch  1 : Train Loss 0.124004 , Train acc 0.964438, Valid acc 0.966061
+Epoch  2 : Train Loss 0.019804
+Epoch  3 : Train Loss 0.010494
+Epoch  4 : Train Loss 0.006458
+Epoch  5 : Train Loss 0.006809
+Epoch  6 : Train Loss 0.002858 , Train acc 0.987108, Valid acc 0.982222
+Epoch  7 : Train Loss 0.001628
+Epoch  8 : Train Loss 0.001744 , Train acc 0.993815, Valid acc 0.985253
+0.001743540157719205
+Epoch  1 : Train Loss 0.124426 , Train acc 0.940382, Valid acc 0.939293
+Epoch  2 : Train Loss 0.019975
+Epoch  3 : Train Loss 0.010779
+Epoch  4 : Train Loss 0.006217
+Epoch  5 : Train Loss 0.003667
+Epoch  6 : Train Loss 0.002263 , Train acc 0.997289, Valid acc 0.990606
+Epoch  7 : Train Loss 0.001342
+Epoch  8 : Train Loss 0.000902 , Train acc 0.999157, Valid acc 0.992929
+0.0009017584096000064
+Epoch  1 : Train Loss 0.115886 , Train acc 0.955743, Valid acc 0.957576
+Epoch  2 : Train Loss 0.020925
+Epoch  3 : Train Loss 0.011029
+Epoch  4 : Train Loss 0.006359
+Epoch  5 : Train Loss 0.004944
+Epoch  6 : Train Loss 0.003621 , Train acc 0.989197, Valid acc 0.983737
+Epoch  7 : Train Loss 0.002394
+Epoch  8 : Train Loss 0.001832 , Train acc 0.995422, Valid acc 0.985657
+0.001832018118390503
+Epoch  1 : Train Loss 0.127442 , Train acc 0.978675, Valid acc 0.979697
+Epoch  2 : Train Loss 0.021586
+Epoch  3 : Train Loss 0.011805
+Epoch  4 : Train Loss 0.007220
+Epoch  5 : Train Loss 0.004974
+Epoch  6 : Train Loss 0.002688 , Train acc 0.992289, Valid acc 0.984444
+Epoch  7 : Train Loss 0.001614
+Epoch  8 : Train Loss 0.000903 , Train acc 0.999418, Valid acc 0.990909
+0.0009030464391495722
+Epoch  1 : Train Loss 0.143452 , Train acc 0.972871, Valid acc 0.972929
+Epoch  2 : Train Loss 0.021863
+Epoch  3 : Train Loss 0.012064
+Epoch  4 : Train Loss 0.006753
+Epoch  5 : Train Loss 0.004014
+Epoch  6 : Train Loss 0.002696 , Train acc 0.991767, Valid acc 0.984949
+Epoch  7 : Train Loss 0.001645
+Epoch  8 : Train Loss 0.000807 , Train acc 0.999819, Valid acc 0.993636
+0.0008068613874881217
+Epoch  1 : Train Loss 0.114843 , Train acc 0.953133, Valid acc 0.956566
+Epoch  2 : Train Loss 0.021937
+Epoch  3 : Train Loss 0.012114
+Epoch  4 : Train Loss 0.007340
+Epoch  5 : Train Loss 0.004340
+Epoch  6 : Train Loss 0.003017 , Train acc 0.995502, Valid acc 0.988182
+Epoch  7 : Train Loss 0.003837
+Epoch  8 : Train Loss 0.001430 , Train acc 0.999297, Valid acc 0.992222
+0.0014299481049965834
+[ 2.03003148 -3.02795106 -2.58812341]
+[0.98402982 0.00625683 0.00971335]
+[0. 0. 0.]
+[[0 0 2 1]
+ [0 0 1 1]
+ [0 1 0 1]
+ [0 2 1 2]
+ [0 2 1 2]
+ [0 0 0 0]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 0 1]
+ [0 2 0 1]
+ [0 0 2 1]
+ [0 0 0 1]
+ [2 0 0 2]
+ [0 0 0 1]
+ [0 0 1 0]
+ [2 0 0 2]]
+[ 1.79851375 -2.52426692 -2.62007278]
+[0.97531078 0.0129355  0.01175372]
+[0. 0. 0.]
+[[0 0 2 1]
+ [0 0 1 1]
+ [0 1 0 1]
+ [0 2 1 2]
+ [0 2 1 2]
+ [0 0 0 0]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 0 1]
+ [0 2 0 1]
+ [0 0 2 1]
+ [0 0 0 1]
+ [2 0 0 2]
+ [0 0 0 1]
+ [0 0 1 0]
+ [2 0 0 2]]
+[-0.67083616  0.2236622  -2.13219545]
+[0.27188473 0.66505954 0.06305573]
+[0. 0. 0.]
+[[0 0 2 1]
+ [0 0 1 1]
+ [0 1 0 1]
+ [0 2 1 2]
+ [0 2 1 2]
+ [0 0 0 0]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 0 1]
+ [0 2 0 1]
+ [0 0 2 1]
+ [0 0 0 1]
+ [2 0 0 2]
+ [0 0 0 1]
+ [0 0 1 0]
+ [2 0 0 2]]
+[-2.12803192  1.01781372 -1.66530233]
+[0.03871809 0.89978196 0.06149995]
+[0. 0. 0.]
+[[0 0 2 1]
+ [0 0 1 1]
+ [0 1 0 1]
+ [0 2 1 2]
+ [0 2 1 2]
+ [0 0 0 0]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 0 1]
+ [0 2 0 1]
+ [0 0 2 1]
+ [0 0 0 1]
+ [2 0 0 2]
+ [0 0 0 1]
+ [0 0 1 0]
+ [2 0 0 2]]
+Epoch 8 : b_values [[0.98432232 0.00625564 0.00942205]
+ [0.97613622 0.01311783 0.01074595]
+ [0.28311062 0.65360636 0.06328302]
+ [0.03886388 0.90600314 0.05513298]] 
+losse
+Epoch  1 : Train Loss 0.124135 , Train acc 0.955783, Valid acc 0.957677
+Epoch  2 : Train Loss 0.020314
+Epoch  3 : Train Loss 0.010894
+Epoch  4 : Train Loss 0.006419
+Epoch  5 : Train Loss 0.003801
+Epoch  6 : Train Loss 0.002381 , Train acc 0.978333, Valid acc 0.973939
+Epoch  7 : Train Loss 0.001352
+Epoch  8 : Train Loss 0.000879 , Train acc 0.999518, Valid acc 0.992424
+0.0008792178665559428
+Epoch  1 : Train Loss 0.121454 , Train acc 0.955261, Valid acc 0.954343
+Epoch  2 : Train Loss 0.020637
+Epoch  3 : Train Loss 0.010829
+Epoch  4 : Train Loss 0.005298
+Epoch  5 : Train Loss 0.003026
+Epoch  6 : Train Loss 0.002083 , Train acc 0.977229, Valid acc 0.968485
+Epoch  7 : Train Loss 0.000955
+Epoch  8 : Train Loss 0.000587 , Train acc 0.999900, Valid acc 0.992020
+0.0005866943616031979
+Epoch  1 : Train Loss 0.147282 , Train acc 0.959779, Valid acc 0.956061
+Epoch  2 : Train Loss 0.021292
+Epoch  3 : Train Loss 0.011911
+Epoch  4 : Train Loss 0.006757
+Epoch  5 : Train Loss 0.004006
+Epoch  6 : Train Loss 0.002585 , Train acc 0.991948, Valid acc 0.985354
+Epoch  7 : Train Loss 0.001973
+Epoch  8 : Train Loss 0.001264 , Train acc 0.997811, Valid acc 0.989293
+0.0012641556511516683
+Epoch  1 : Train Loss 0.117840 , Train acc 0.957108, Valid acc 0.958384
+Epoch  2 : Train Loss 0.018330
+Epoch  3 : Train Loss 0.010866
+Epoch  4 : Train Loss 0.005135
+Epoch  5 : Train Loss 0.003123
+Epoch  6 : Train Loss 0.002672 , Train acc 0.989900, Valid acc 0.983737
+Epoch  7 : Train Loss 0.001222
+Epoch  8 : Train Loss 0.000886 , Train acc 0.999357, Valid acc 0.991414
+0.0008864394893074253
+Epoch  1 : Train Loss 0.121269 , Train acc 0.975763, Valid acc 0.973434
+Epoch  2 : Train Loss 0.018586
+Epoch  3 : Train Loss 0.010047
+Epoch  4 : Train Loss 0.005999
+Epoch  5 : Train Loss 0.004148
+Epoch  6 : Train Loss 0.002941 , Train acc 0.983876, Valid acc 0.978586
+Epoch  7 : Train Loss 0.001646
+Epoch  8 : Train Loss 0.001493 , Train acc 0.999438, Valid acc 0.991717
+0.0014928220668177044
+Epoch  1 : Train Loss 0.121385 , Train acc 0.957912, Valid acc 0.959293
+Epoch  2 : Train Loss 0.020033
+Epoch  3 : Train Loss 0.010683
+Epoch  4 : Train Loss 0.005873
+Epoch  5 : Train Loss 0.003055
+Epoch  6 : Train Loss 0.002017 , Train acc 0.993896, Valid acc 0.986970
+Epoch  7 : Train Loss 0.001137
+Epoch  8 : Train Loss 0.000500 , Train acc 0.999940, Valid acc 0.993434
+0.0004997834070430447
+Epoch  1 : Train Loss 0.132558 , Train acc 0.966104, Valid acc 0.966869
+Epoch  2 : Train Loss 0.021067
+Epoch  3 : Train Loss 0.012136
+Epoch  4 : Train Loss 0.007116
+Epoch  5 : Train Loss 0.004378
+Epoch  6 : Train Loss 0.002461 , Train acc 0.995402, Valid acc 0.987576
+Epoch  7 : Train Loss 0.001450
+Epoch  8 : Train Loss 0.000735 , Train acc 0.999719, Valid acc 0.992727
+0.0007347124297909128
+Epoch  1 : Train Loss 0.124240 , Train acc 0.970803, Valid acc 0.969697
+Epoch  2 : Train Loss 0.021452
+Epoch  3 : Train Loss 0.012217
+Epoch  4 : Train Loss 0.007063
+Epoch  5 : Train Loss 0.004545
+Epoch  6 : Train Loss 0.002769 , Train acc 0.990181, Valid acc 0.983737
+Epoch  7 : Train Loss 0.001756
+Epoch  8 : Train Loss 0.000758 , Train acc 0.999618, Valid acc 0.993434
+0.0007580199612615009
+Epoch  1 : Train Loss 0.123761 , Train acc 0.968133, Valid acc 0.969293
+Epoch  2 : Train Loss 0.020210
+Epoch  3 : Train Loss 0.011115
+Epoch  4 : Train Loss 0.006078
+Epoch  5 : Train Loss 0.003817
+Epoch  6 : Train Loss 0.002435 , Train acc 0.995944, Valid acc 0.990202
+Epoch  7 : Train Loss 0.001528
+Epoch  8 : Train Loss 0.000627 , Train acc 0.999518, Valid acc 0.992626
+0.0006273966886510607
+Epoch  1 : Train Loss 0.122527 , Train acc 0.979177, Valid acc 0.979192
+Epoch  2 : Train Loss 0.019906
+Epoch  3 : Train Loss 0.010347
+Epoch  4 : Train Loss 0.005980
+Epoch  5 : Train Loss 0.003226
+Epoch  6 : Train Loss 0.002520 , Train acc 0.994177, Valid acc 0.986869
+Epoch  7 : Train Loss 0.001574
+Epoch  8 : Train Loss 0.001091 , Train acc 0.995402, Valid acc 0.986970
+0.0010905962859396822
+Epoch  1 : Train Loss 0.119791 , Train acc 0.970622, Valid acc 0.968687
+Epoch  2 : Train Loss 0.019517
+Epoch  3 : Train Loss 0.011328
+Epoch  4 : Train Loss 0.006476
+Epoch  5 : Train Loss 0.003719
+Epoch  6 : Train Loss 0.002677 , Train acc 0.988614, Valid acc 0.979394
+Epoch  7 : Train Loss 0.001395
+Epoch  8 : Train Loss 0.000747 , Train acc 0.999900, Valid acc 0.993939
+0.0007467028414733553
+Epoch  1 : Train Loss 0.122586 , Train acc 0.976606, Valid acc 0.977172
+Epoch  2 : Train Loss 0.020661
+Epoch  3 : Train Loss 0.010528
+Epoch  4 : Train Loss 0.005365
+Epoch  5 : Train Loss 0.003138
+Epoch  6 : Train Loss 0.002213 , Train acc 0.997952, Valid acc 0.989091
+Epoch  7 : Train Loss 0.001425
+Epoch  8 : Train Loss 0.001069 , Train acc 0.999498, Valid acc 0.991111
+0.0010689413106107775
+Epoch  1 : Train Loss 0.113694 , Train acc 0.977570, Valid acc 0.976162
+Epoch  2 : Train Loss 0.018142
+Epoch  3 : Train Loss 0.009252
+Epoch  4 : Train Loss 0.005646
+Epoch  5 : Train Loss 0.003937
+Epoch  6 : Train Loss 0.002644 , Train acc 0.992390, Valid acc 0.985354
+Epoch  7 : Train Loss 0.002260
+Epoch  8 : Train Loss 0.001191 , Train acc 0.999398, Valid acc 0.992828
+0.0011912483569176402
+Epoch  1 : Train Loss 0.122426 , Train acc 0.963896, Valid acc 0.965051
+Epoch  2 : Train Loss 0.020103
+Epoch  3 : Train Loss 0.010815
+Epoch  4 : Train Loss 0.005733
+Epoch  5 : Train Loss 0.003121
+Epoch  6 : Train Loss 0.002146 , Train acc 0.997992, Valid acc 0.989899
+Epoch  7 : Train Loss 0.000971
+Epoch  8 : Train Loss 0.000471 , Train acc 0.999920, Valid acc 0.993939
+0.00047112169612470705
+Epoch  1 : Train Loss 0.122465 , Train acc 0.979518, Valid acc 0.979192
+Epoch  2 : Train Loss 0.019873
+Epoch  3 : Train Loss 0.011148
+Epoch  4 : Train Loss 0.005900
+Epoch  5 : Train Loss 0.003606
+Epoch  6 : Train Loss 0.002757 , Train acc 0.991847, Valid acc 0.983737
+Epoch  7 : Train Loss 0.001366
+Epoch  8 : Train Loss 0.001134 , Train acc 0.998414, Valid acc 0.989697
+0.001134039101525559
+Epoch  1 : Train Loss 0.120426 , Train acc 0.974819, Valid acc 0.974848
+Epoch  2 : Train Loss 0.019728
+Epoch  3 : Train Loss 0.010233
+Epoch  4 : Train Loss 0.005634
+Epoch  5 : Train Loss 0.003429
+Epoch  6 : Train Loss 0.002378 , Train acc 0.993855, Valid acc 0.987273
+Epoch  7 : Train Loss 0.001969
+Epoch  8 : Train Loss 0.000984 , Train acc 0.999699, Valid acc 0.993030
+0.0009836094767282095
+[ 4.13971522 -5.06799711 -4.65523634]
+[9.99748304e-01 1.00237914e-04 1.51457834e-04]
+[0. 0. 0.]
+[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 0]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 2 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 2 2]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[ 3.71124027 -4.32057849 -4.52242187]
+[9.99409830e-01 3.24764872e-04 2.65405294e-04]
+[0. 0. 0.]
+[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 0]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 2 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 2 2]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-0.92908385  0.63492947 -2.69476416]
+[0.16809467 0.80314932 0.02875602]
+[0. 0. 0.]
+[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 0]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 2 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 2 2]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-3.20805065  2.26578139 -2.84129618]
+[0.00415257 0.9898551  0.00599233]
+[0. 0. 0.]
+[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 0]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 2 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 2 2]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+Epoch 9 : b_values [[9.99748304e-01 1.00237914e-04 1.51457834e-04]
+ [9.99407184e-01 3.24765913e-04 2.68050386e-04]
+ [1.69521660e-01 8.02346752e-01 2.81315884e-02]
+ [4.04873024e-03 9.90079058e-01 5.87221198e-03]] 
+losse
+Epoch  1 : Train Loss 0.131814 , Train acc 0.946265, Valid acc 0.946970
+Epoch  2 : Train Loss 0.021537
+Epoch  3 : Train Loss 0.011667
+Epoch  4 : Train Loss 0.006807
+Epoch  5 : Train Loss 0.003789
+Epoch  6 : Train Loss 0.002554 , Train acc 0.974478, Valid acc 0.969596
+Epoch  7 : Train Loss 0.001606
+Epoch  8 : Train Loss 0.001087 , Train acc 0.999759, Valid acc 0.992323
+0.0010874433591379785
+Epoch  1 : Train Loss 0.126353 , Train acc 0.957711, Valid acc 0.961212
+Epoch  2 : Train Loss 0.020356
+Epoch  3 : Train Loss 0.011381
+Epoch  4 : Train Loss 0.006237
+Epoch  5 : Train Loss 0.004456
+Epoch  6 : Train Loss 0.004030 , Train acc 0.990803, Valid acc 0.984848
+Epoch  7 : Train Loss 0.001708
+Epoch  8 : Train Loss 0.000938 , Train acc 0.999418, Valid acc 0.992222
+0.0009375123291586836
+Epoch  1 : Train Loss 0.121922 , Train acc 0.976084, Valid acc 0.976061
+Epoch  2 : Train Loss 0.019462
+Epoch  3 : Train Loss 0.011060
+Epoch  4 : Train Loss 0.006175
+Epoch  5 : Train Loss 0.003879
+Epoch  6 : Train Loss 0.002071 , Train acc 0.995080, Valid acc 0.987475
+Epoch  7 : Train Loss 0.001303
+Epoch  8 : Train Loss 0.000550 , Train acc 0.999839, Valid acc 0.992929
+0.0005495485350547825
+Epoch  1 : Train Loss 0.124947 , Train acc 0.969096, Valid acc 0.966566
+Epoch  2 : Train Loss 0.018927
+Epoch  3 : Train Loss 0.009884
+Epoch  4 : Train Loss 0.005754
+Epoch  5 : Train Loss 0.003986
+Epoch  6 : Train Loss 0.001934 , Train acc 0.994498, Valid acc 0.986061
+Epoch  7 : Train Loss 0.001182
+Epoch  8 : Train Loss 0.000950 , Train acc 0.998916, Valid acc 0.989697
+0.0009499960851098876
+Epoch  1 : Train Loss 0.123623 , Train acc 0.931345, Valid acc 0.930202
+Epoch  2 : Train Loss 0.019470
+Epoch  3 : Train Loss 0.010382
+Epoch  4 : Train Loss 0.005383
+Epoch  5 : Train Loss 0.003114
+Epoch  6 : Train Loss 0.001903 , Train acc 0.997369, Valid acc 0.988990
+Epoch  7 : Train Loss 0.001215
+Epoch  8 : Train Loss 0.000981 , Train acc 0.999659, Valid acc 0.992323
+0.0009813891425437759
+Epoch  1 : Train Loss 0.121788 , Train acc 0.971345, Valid acc 0.974545
+Epoch  2 : Train Loss 0.021869
+Epoch  3 : Train Loss 0.011161
+Epoch  4 : Train Loss 0.006519
+Epoch  5 : Train Loss 0.004402
+Epoch  6 : Train Loss 0.002417 , Train acc 0.958394, Valid acc 0.955455
+Epoch  7 : Train Loss 0.001675
+Epoch  8 : Train Loss 0.001296 , Train acc 0.998996, Valid acc 0.991111
+0.0012958694214952023
+Epoch  1 : Train Loss 0.122354 , Train acc 0.952590, Valid acc 0.954141
+Epoch  2 : Train Loss 0.018617
+Epoch  3 : Train Loss 0.009709
+Epoch  4 : Train Loss 0.005220
+Epoch  5 : Train Loss 0.002927
+Epoch  6 : Train Loss 0.001518 , Train acc 0.994639, Valid acc 0.986061
+Epoch  7 : Train Loss 0.001100
+Epoch  8 : Train Loss 0.001036 , Train acc 0.998614, Valid acc 0.991010
+0.0010362303664442152
+Epoch  1 : Train Loss 0.120225 , Train acc 0.981365, Valid acc 0.978788
+Epoch  2 : Train Loss 0.018829
+Epoch  3 : Train Loss 0.009663
+Epoch  4 : Train Loss 0.006392
+Epoch  5 : Train Loss 0.003774
+Epoch  6 : Train Loss 0.002501 , Train acc 0.990924, Valid acc 0.983838
+Epoch  7 : Train Loss 0.001356
+Epoch  8 : Train Loss 0.000737 , Train acc 0.998855, Valid acc 0.991616
+0.0007367256380772839
+Epoch  1 : Train Loss 0.120821 , Train acc 0.976285, Valid acc 0.975657
+Epoch  2 : Train Loss 0.020103
+Epoch  3 : Train Loss 0.010126
+Epoch  4 : Train Loss 0.005856
+Epoch  5 : Train Loss 0.003484
+Epoch  6 : Train Loss 0.001919 , Train acc 0.997751, Valid acc 0.989899
+Epoch  7 : Train Loss 0.000796
+Epoch  8 : Train Loss 0.000562 , Train acc 0.999900, Valid acc 0.992323
+0.0005619482610442598
+Epoch  1 : Train Loss 0.119123 , Train acc 0.964618, Valid acc 0.965960
+Epoch  2 : Train Loss 0.020183
+Epoch  3 : Train Loss 0.010827
+Epoch  4 : Train Loss 0.006238
+Epoch  5 : Train Loss 0.003887
+Epoch  6 : Train Loss 0.002273 , Train acc 0.994257, Valid acc 0.988586
+Epoch  7 : Train Loss 0.001429
+Epoch  8 : Train Loss 0.000732 , Train acc 0.999438, Valid acc 0.991717
+0.000731752881789968
+Epoch  1 : Train Loss 0.121417 , Train acc 0.953916, Valid acc 0.956162
+Epoch  2 : Train Loss 0.020536
+Epoch  3 : Train Loss 0.011786
+Epoch  4 : Train Loss 0.006335
+Epoch  5 : Train Loss 0.003749
+Epoch  6 : Train Loss 0.001843 , Train acc 0.997771, Valid acc 0.989697
+Epoch  7 : Train Loss 0.000937
+Epoch  8 : Train Loss 0.000552 , Train acc 0.999498, Valid acc 0.992929
+0.0005524545688240323
+Epoch  1 : Train Loss 0.119517 , Train acc 0.977912, Valid acc 0.976263
+Epoch  2 : Train Loss 0.019237
+Epoch  3 : Train Loss 0.010034
+Epoch  4 : Train Loss 0.005126
+Epoch  5 : Train Loss 0.002397
+Epoch  6 : Train Loss 0.001359 , Train acc 0.997631, Valid acc 0.989293
+Epoch  7 : Train Loss 0.000761
+Epoch  8 : Train Loss 0.001040 , Train acc 0.999799, Valid acc 0.993232
+0.0010396621961748073
+Epoch  1 : Train Loss 0.125456 , Train acc 0.977390, Valid acc 0.978788
+Epoch  2 : Train Loss 0.022214
+Epoch  3 : Train Loss 0.012012
+Epoch  4 : Train Loss 0.007118
+Epoch  5 : Train Loss 0.004171
+Epoch  6 : Train Loss 0.002920 , Train acc 0.995060, Valid acc 0.988182
+Epoch  7 : Train Loss 0.001545
+Epoch  8 : Train Loss 0.001503 , Train acc 0.998373, Valid acc 0.990303
+0.0015034365776227787
+Epoch  1 : Train Loss 0.119846 , Train acc 0.952550, Valid acc 0.953535
+Epoch  2 : Train Loss 0.019310
+Epoch  3 : Train Loss 0.011026
+Epoch  4 : Train Loss 0.006629
+Epoch  5 : Train Loss 0.004106
+Epoch  6 : Train Loss 0.002846 , Train acc 0.988775, Valid acc 0.982222
+Epoch  7 : Train Loss 0.001491
+Epoch  8 : Train Loss 0.000854 , Train acc 0.999699, Valid acc 0.992828
+0.0008537636319427596
+Epoch  1 : Train Loss 0.121234 , Train acc 0.973313, Valid acc 0.971010
+Epoch  2 : Train Loss 0.019048
+Epoch  3 : Train Loss 0.010721
+Epoch  4 : Train Loss 0.006461
+Epoch  5 : Train Loss 0.004072
+Epoch  6 : Train Loss 0.002619 , Train acc 0.984578, Valid acc 0.980202
+Epoch  7 : Train Loss 0.001306
+Epoch  8 : Train Loss 0.000850 , Train acc 0.998956, Valid acc 0.992424
+0.0008504272234616413
+Epoch  1 : Train Loss 0.119675 , Train acc 0.978253, Valid acc 0.977374
+Epoch  2 : Train Loss 0.018988
+Epoch  3 : Train Loss 0.010248
+Epoch  4 : Train Loss 0.006005
+Epoch  5 : Train Loss 0.003698
+Epoch  6 : Train Loss 0.002631 , Train acc 0.975080, Valid acc 0.973232
+Epoch  7 : Train Loss 0.002018
+Epoch  8 : Train Loss 0.001296 , Train acc 0.999478, Valid acc 0.991818
+0.0012961249043776965
+[ 8.28703782 -9.20786381 -8.79505182]
+[9.99999937e-01 2.52383368e-08 3.81366640e-08]
+[0. 0. 0.]
+[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[ 7.430033   -8.03208108 -8.2240675 ]
+[9.99999648e-01 1.92703243e-07 1.59041470e-07]
+[0. 0. 0.]
+[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-1.58902114  1.40102665 -3.54232733]
+[0.04755465 0.94570189 0.00674346]
+[0. 0. 0.]
+[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-5.50529502  4.6031369  -5.13163437]
+[4.07305621e-05 9.99900086e-01 5.91832980e-05]
+[0. 0. 0.]
+[[0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 2]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 0 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+Epoch 10 : b_values [[9.99999937e-01 2.52383368e-08 3.81366640e-08]
+ [9.99999648e-01 1.92703243e-07 1.59041470e-07]
+ [4.65087047e-02 9.46748863e-01 6.74243209e-03]
+ [4.07306027e-05 9.99898591e-01 6.06783077e-05]] 
+losse
+Epoch  1 : Train Loss 0.120107 , Train acc 0.982932, Valid acc 0.979192
+Epoch  2 : Train Loss 0.019680
+Epoch  3 : Train Loss 0.010329
+Epoch  4 : Train Loss 0.006002
+Epoch  5 : Train Loss 0.003623
+Epoch  6 : Train Loss 0.002310 , Train acc 0.982048, Valid acc 0.977071
+Epoch  7 : Train Loss 0.001543
+Epoch  8 : Train Loss 0.000811 , Train acc 0.999659, Valid acc 0.992626
+0.0008111038335967654
+Epoch  1 : Train Loss 0.119122 , Train acc 0.975683, Valid acc 0.974444
+Epoch  2 : Train Loss 0.019965
+Epoch  3 : Train Loss 0.010885
+Epoch  4 : Train Loss 0.006652
+Epoch  5 : Train Loss 0.004068
+Epoch  6 : Train Loss 0.002723 , Train acc 0.988795, Valid acc 0.979899
+Epoch  7 : Train Loss 0.001370
+Epoch  8 : Train Loss 0.000803 , Train acc 0.999438, Valid acc 0.991919
+0.0008030543858088397
+Epoch  1 : Train Loss 0.125054 , Train acc 0.958896, Valid acc 0.962121
+Epoch  2 : Train Loss 0.020819
+Epoch  3 : Train Loss 0.010666
+Epoch  4 : Train Loss 0.005706
+Epoch  5 : Train Loss 0.003839
+Epoch  6 : Train Loss 0.002195 , Train acc 0.997510, Valid acc 0.987778
+Epoch  7 : Train Loss 0.001451
+Epoch  8 : Train Loss 0.000987 , Train acc 0.997811, Valid acc 0.987576
+0.0009873303937880944
+Epoch  1 : Train Loss 0.124927 , Train acc 0.975542, Valid acc 0.972525
+Epoch  2 : Train Loss 0.021045
+Epoch  3 : Train Loss 0.011231
+Epoch  4 : Train Loss 0.006218
+Epoch  5 : Train Loss 0.003305
+Epoch  6 : Train Loss 0.002475 , Train acc 0.996145, Valid acc 0.988586
+Epoch  7 : Train Loss 0.002050
+Epoch  8 : Train Loss 0.001054 , Train acc 0.997610, Valid acc 0.990202
+0.0010537829367482723
+Epoch  1 : Train Loss 0.118862 , Train acc 0.973554, Valid acc 0.973838
+Epoch  2 : Train Loss 0.019177
+Epoch  3 : Train Loss 0.009823
+Epoch  4 : Train Loss 0.005430
+Epoch  5 : Train Loss 0.003353
+Epoch  6 : Train Loss 0.001972 , Train acc 0.990161, Valid acc 0.985758
+Epoch  7 : Train Loss 0.001375
+Epoch  8 : Train Loss 0.000918 , Train acc 0.999237, Valid acc 0.992424
+0.0009175578332118069
+Epoch  1 : Train Loss 0.118209 , Train acc 0.966064, Valid acc 0.967071
+Epoch  2 : Train Loss 0.020270
+Epoch  3 : Train Loss 0.010491
+Epoch  4 : Train Loss 0.005678
+Epoch  5 : Train Loss 0.003249
+Epoch  6 : Train Loss 0.002363 , Train acc 0.986727, Valid acc 0.979192
+Epoch  7 : Train Loss 0.001280
+Epoch  8 : Train Loss 0.000787 , Train acc 0.999819, Valid acc 0.992323
+0.0007868575607426465
+Epoch  1 : Train Loss 0.121536 , Train acc 0.982269, Valid acc 0.982222
+Epoch  2 : Train Loss 0.019498
+Epoch  3 : Train Loss 0.010488
+Epoch  4 : Train Loss 0.006570
+Epoch  5 : Train Loss 0.003704
+Epoch  6 : Train Loss 0.001823 , Train acc 0.999337, Valid acc 0.991717
+Epoch  7 : Train Loss 0.000848
+Epoch  8 : Train Loss 0.000343 , Train acc 0.999980, Valid acc 0.993333
+0.0003431642237895479
+Epoch  1 : Train Loss 0.117170 , Train acc 0.979096, Valid acc 0.976263
+Epoch  2 : Train Loss 0.019596
+Epoch  3 : Train Loss 0.010692
+Epoch  4 : Train Loss 0.006544
+Epoch  5 : Train Loss 0.003760
+Epoch  6 : Train Loss 0.002831 , Train acc 0.995120, Valid acc 0.987273
+Epoch  7 : Train Loss 0.001711
+Epoch  8 : Train Loss 0.000847 , Train acc 0.998795, Valid acc 0.989495
+0.0008466832185028276
+Epoch  1 : Train Loss 0.119408 , Train acc 0.980442, Valid acc 0.978081
+Epoch  2 : Train Loss 0.019078
+Epoch  3 : Train Loss 0.009757
+Epoch  4 : Train Loss 0.005751
+Epoch  5 : Train Loss 0.003936
+Epoch  6 : Train Loss 0.002221 , Train acc 0.995783, Valid acc 0.987273
+Epoch  7 : Train Loss 0.001198
+Epoch  8 : Train Loss 0.000593 , Train acc 0.999900, Valid acc 0.993535
+0.0005925551779607
+Epoch  1 : Train Loss 0.123461 , Train acc 0.969056, Valid acc 0.971919
+Epoch  2 : Train Loss 0.019868
+Epoch  3 : Train Loss 0.010582
+Epoch  4 : Train Loss 0.006628
+Epoch  5 : Train Loss 0.004047
+Epoch  6 : Train Loss 0.002942 , Train acc 0.991345, Valid acc 0.984949
+Epoch  7 : Train Loss 0.001477
+Epoch  8 : Train Loss 0.000950 , Train acc 0.999337, Valid acc 0.991515
+0.0009502564073773101
+Epoch  1 : Train Loss 0.122739 , Train acc 0.974498, Valid acc 0.972323
+Epoch  2 : Train Loss 0.021024
+Epoch  3 : Train Loss 0.011515
+Epoch  4 : Train Loss 0.006640
+Epoch  5 : Train Loss 0.003864
+Epoch  6 : Train Loss 0.002958 , Train acc 0.994960, Valid acc 0.988182
+Epoch  7 : Train Loss 0.001693
+Epoch  8 : Train Loss 0.001071 , Train acc 0.991044, Valid acc 0.981818
+0.0010711337002188277
+Epoch  1 : Train Loss 0.123276 , Train acc 0.976084, Valid acc 0.975758
+Epoch  2 : Train Loss 0.020128
+Epoch  3 : Train Loss 0.010067
+Epoch  4 : Train Loss 0.006098
+Epoch  5 : Train Loss 0.003261
+Epoch  6 : Train Loss 0.002393 , Train acc 0.995823, Valid acc 0.987576
+Epoch  7 : Train Loss 0.001175
+Epoch  8 : Train Loss 0.000798 , Train acc 0.999659, Valid acc 0.992222
+0.0007980108980943138
+Epoch  1 : Train Loss 0.123694 , Train acc 0.936044, Valid acc 0.942323
+Epoch  2 : Train Loss 0.019934
+Epoch  3 : Train Loss 0.010984
+Epoch  4 : Train Loss 0.006228
+Epoch  5 : Train Loss 0.004048
+Epoch  6 : Train Loss 0.002636 , Train acc 0.994759, Valid acc 0.986162
+Epoch  7 : Train Loss 0.001826
+Epoch  8 : Train Loss 0.001076 , Train acc 0.998855, Valid acc 0.990404
+0.0010762510497685678
+Epoch  1 : Train Loss 0.125401 , Train acc 0.962871, Valid acc 0.962020
+Epoch  2 : Train Loss 0.020471
+Epoch  3 : Train Loss 0.010689
+Epoch  4 : Train Loss 0.006258
+Epoch  5 : Train Loss 0.003655
+Epoch  6 : Train Loss 0.003229 , Train acc 0.979980, Valid acc 0.974242
+Epoch  7 : Train Loss 0.001856
+Epoch  8 : Train Loss 0.001062 , Train acc 0.999839, Valid acc 0.992121
+0.001062198665070658
+Epoch  1 : Train Loss 0.123402 , Train acc 0.948675, Valid acc 0.954848
+Epoch  2 : Train Loss 0.020191
+Epoch  3 : Train Loss 0.010707
+Epoch  4 : Train Loss 0.006264
+Epoch  5 : Train Loss 0.004059
+Epoch  6 : Train Loss 0.002526 , Train acc 0.984317, Valid acc 0.978182
+Epoch  7 : Train Loss 0.002491
+Epoch  8 : Train Loss 0.001204 , Train acc 0.999277, Valid acc 0.991010
+0.0012040273097712391
+Epoch  1 : Train Loss 0.121444 , Train acc 0.970040, Valid acc 0.969899
+Epoch  2 : Train Loss 0.019076
+Epoch  3 : Train Loss 0.010898
+Epoch  4 : Train Loss 0.006384
+Epoch  5 : Train Loss 0.004654
+Epoch  6 : Train Loss 0.002584 , Train acc 0.995241, Valid acc 0.987374
+Epoch  7 : Train Loss 0.001409
+Epoch  8 : Train Loss 0.000668 , Train acc 0.999618, Valid acc 0.992626
+0.0006678107810633567
+[ 16.5741963  -17.49490167 -17.08208967]
+[1.00000000e+00 1.59947975e-15 2.41691135e-15]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[ 14.86035982 -15.46211424 -15.65410069]
+[1.00000000e+00 6.77823839e-14 5.59420249e-14]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-3.0204908   2.87801471 -4.99256931]
+[2.73499411e-03 9.96884384e-01 3.80621733e-04]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-10.10849011   9.19624818  -9.70986361]
+[4.13103317e-09 9.99999990e-01 6.15431851e-09]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+Epoch 11 : b_values [[1.00000000e+00 1.59947975e-15 2.41691135e-15]
+ [1.00000000e+00 6.77823839e-14 5.59420249e-14]
+ [2.73499411e-03 9.96884384e-01 3.80621733e-04]
+ [4.13103317e-09 9.99999990e-01 6.15431851e-09]] 
+losse
+Epoch  1 : Train Loss 0.126274 , Train acc 0.954618, Valid acc 0.951717
+Epoch  2 : Train Loss 0.019409
+Epoch  3 : Train Loss 0.009825
+Epoch  4 : Train Loss 0.005679
+Epoch  5 : Train Loss 0.004185
+Epoch  6 : Train Loss 0.003149 , Train acc 0.992731, Valid acc 0.985556
+Epoch  7 : Train Loss 0.001742
+Epoch  8 : Train Loss 0.001047 , Train acc 0.999839, Valid acc 0.992626
+0.0010473505453167794
+Epoch  1 : Train Loss 0.122542 , Train acc 0.973293, Valid acc 0.973636
+Epoch  2 : Train Loss 0.021132
+Epoch  3 : Train Loss 0.011831
+Epoch  4 : Train Loss 0.008066
+Epoch  5 : Train Loss 0.004354
+Epoch  6 : Train Loss 0.002475 , Train acc 0.997671, Valid acc 0.990404
+Epoch  7 : Train Loss 0.001426
+Epoch  8 : Train Loss 0.000715 , Train acc 0.999056, Valid acc 0.992222
+0.0007149892527377233
+Epoch  1 : Train Loss 0.124619 , Train acc 0.963835, Valid acc 0.963030
+Epoch  2 : Train Loss 0.020407
+Epoch  3 : Train Loss 0.011472
+Epoch  4 : Train Loss 0.006233
+Epoch  5 : Train Loss 0.003377
+Epoch  6 : Train Loss 0.002702 , Train acc 0.991285, Valid acc 0.981818
+Epoch  7 : Train Loss 0.001423
+Epoch  8 : Train Loss 0.001234 , Train acc 0.999598, Valid acc 0.992525
+0.0012336866847666291
+Epoch  1 : Train Loss 0.121709 , Train acc 0.981847, Valid acc 0.980303
+Epoch  2 : Train Loss 0.020875
+Epoch  3 : Train Loss 0.011796
+Epoch  4 : Train Loss 0.006808
+Epoch  5 : Train Loss 0.004342
+Epoch  6 : Train Loss 0.002361 , Train acc 0.984257, Valid acc 0.976768
+Epoch  7 : Train Loss 0.001624
+Epoch  8 : Train Loss 0.000892 , Train acc 0.999618, Valid acc 0.993333
+0.0008921168267746301
+Epoch  1 : Train Loss 0.122842 , Train acc 0.961124, Valid acc 0.962121
+Epoch  2 : Train Loss 0.019801
+Epoch  3 : Train Loss 0.010424
+Epoch  4 : Train Loss 0.006217
+Epoch  5 : Train Loss 0.003375
+Epoch  6 : Train Loss 0.002235 , Train acc 0.997450, Valid acc 0.989697
+Epoch  7 : Train Loss 0.001240
+Epoch  8 : Train Loss 0.002132 , Train acc 0.991867, Valid acc 0.983636
+0.0021323914829311738
+Epoch  1 : Train Loss 0.124126 , Train acc 0.948675, Valid acc 0.951212
+Epoch  2 : Train Loss 0.020716
+Epoch  3 : Train Loss 0.010278
+Epoch  4 : Train Loss 0.005418
+Epoch  5 : Train Loss 0.003563
+Epoch  6 : Train Loss 0.002209 , Train acc 0.994960, Valid acc 0.987475
+Epoch  7 : Train Loss 0.001599
+Epoch  8 : Train Loss 0.000837 , Train acc 0.999558, Valid acc 0.992020
+0.0008366656065239415
+Epoch  1 : Train Loss 0.125952 , Train acc 0.972952, Valid acc 0.972626
+Epoch  2 : Train Loss 0.020531
+Epoch  3 : Train Loss 0.010872
+Epoch  4 : Train Loss 0.005299
+Epoch  5 : Train Loss 0.003222
+Epoch  6 : Train Loss 0.002444 , Train acc 0.990221, Valid acc 0.983232
+Epoch  7 : Train Loss 0.001695
+Epoch  8 : Train Loss 0.000901 , Train acc 0.999679, Valid acc 0.992323
+0.0009012450669009316
+Epoch  1 : Train Loss 0.120927 , Train acc 0.955040, Valid acc 0.955859
+Epoch  2 : Train Loss 0.018689
+Epoch  3 : Train Loss 0.010568
+Epoch  4 : Train Loss 0.006263
+Epoch  5 : Train Loss 0.003604
+Epoch  6 : Train Loss 0.002156 , Train acc 0.989257, Valid acc 0.982727
+Epoch  7 : Train Loss 0.001127
+Epoch  8 : Train Loss 0.000504 , Train acc 0.999759, Valid acc 0.991212
+0.0005040946601366159
+Epoch  1 : Train Loss 0.122077 , Train acc 0.982048, Valid acc 0.982020
+Epoch  2 : Train Loss 0.019040
+Epoch  3 : Train Loss 0.009790
+Epoch  4 : Train Loss 0.005534
+Epoch  5 : Train Loss 0.003749
+Epoch  6 : Train Loss 0.003210 , Train acc 0.992631, Valid acc 0.985657
+Epoch  7 : Train Loss 0.002343
+Epoch  8 : Train Loss 0.000998 , Train acc 0.998012, Valid acc 0.990404
+0.000997968329077897
+Epoch  1 : Train Loss 0.122024 , Train acc 0.972008, Valid acc 0.972525
+Epoch  2 : Train Loss 0.020073
+Epoch  3 : Train Loss 0.010320
+Epoch  4 : Train Loss 0.006234
+Epoch  5 : Train Loss 0.003837
+Epoch  6 : Train Loss 0.002941 , Train acc 0.989779, Valid acc 0.983838
+Epoch  7 : Train Loss 0.001334
+Epoch  8 : Train Loss 0.000719 , Train acc 0.999438, Valid acc 0.991111
+0.0007186319276418847
+Epoch  1 : Train Loss 0.122527 , Train acc 0.950683, Valid acc 0.950808
+Epoch  2 : Train Loss 0.021516
+Epoch  3 : Train Loss 0.011924
+Epoch  4 : Train Loss 0.006714
+Epoch  5 : Train Loss 0.003712
+Epoch  6 : Train Loss 0.002378 , Train acc 0.994960, Valid acc 0.986566
+Epoch  7 : Train Loss 0.001066
+Epoch  8 : Train Loss 0.000736 , Train acc 0.999679, Valid acc 0.992424
+0.0007361484598368406
+Epoch  1 : Train Loss 0.122160 , Train acc 0.968855, Valid acc 0.968687
+Epoch  2 : Train Loss 0.018092
+Epoch  3 : Train Loss 0.009190
+Epoch  4 : Train Loss 0.005528
+Epoch  5 : Train Loss 0.003885
+Epoch  6 : Train Loss 0.002548 , Train acc 0.995080, Valid acc 0.986768
+Epoch  7 : Train Loss 0.001938
+Epoch  8 : Train Loss 0.000935 , Train acc 0.999558, Valid acc 0.992222
+0.0009354613920246872
+Epoch  1 : Train Loss 0.120332 , Train acc 0.976044, Valid acc 0.974949
+Epoch  2 : Train Loss 0.019332
+Epoch  3 : Train Loss 0.011195
+Epoch  4 : Train Loss 0.005908
+Epoch  5 : Train Loss 0.003591
+Epoch  6 : Train Loss 0.002052 , Train acc 0.991827, Valid acc 0.984242
+Epoch  7 : Train Loss 0.001706
+Epoch  8 : Train Loss 0.000737 , Train acc 0.999598, Valid acc 0.990707
+0.0007366734801325947
+Epoch  1 : Train Loss 0.122467 , Train acc 0.968233, Valid acc 0.966263
+Epoch  2 : Train Loss 0.020403
+Epoch  3 : Train Loss 0.010671
+Epoch  4 : Train Loss 0.005778
+Epoch  5 : Train Loss 0.003403
+Epoch  6 : Train Loss 0.002564 , Train acc 0.988755, Valid acc 0.981717
+Epoch  7 : Train Loss 0.001218
+Epoch  8 : Train Loss 0.000676 , Train acc 0.999799, Valid acc 0.993737
+0.0006759130687472256
+Epoch  1 : Train Loss 0.120122 , Train acc 0.975723, Valid acc 0.977071
+Epoch  2 : Train Loss 0.019571
+Epoch  3 : Train Loss 0.010138
+Epoch  4 : Train Loss 0.005988
+Epoch  5 : Train Loss 0.003676
+Epoch  6 : Train Loss 0.002075 , Train acc 0.992610, Valid acc 0.986364
+Epoch  7 : Train Loss 0.001217
+Epoch  8 : Train Loss 0.000873 , Train acc 0.998976, Valid acc 0.992525
+0.0008729487757470148
+Epoch  1 : Train Loss 0.121494 , Train acc 0.963153, Valid acc 0.964242
+Epoch  2 : Train Loss 0.020167
+Epoch  3 : Train Loss 0.009982
+Epoch  4 : Train Loss 0.005973
+Epoch  5 : Train Loss 0.003463
+Epoch  6 : Train Loss 0.002163 , Train acc 0.991506, Valid acc 0.982323
+Epoch  7 : Train Loss 0.001247
+Epoch  8 : Train Loss 0.000700 , Train acc 0.999458, Valid acc 0.991616
+0.0006995901780707451
+[ 33.15328163 -34.06909797 -33.65628597]
+[1.00000000e+00 6.39280530e-30 9.65991828e-30]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[ 29.72108815 -30.32247406 -30.51446051]
+[1.00000000e+00 8.38324695e-27 6.91884503e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-5.89888726  5.76820797 -7.87332381]
+[8.57118139e-06 9.99990239e-01 1.19001870e-06]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-19.3047383  18.3925451 -18.9061118]
+[4.24891300e-17 1.00000000e+00 6.32993319e-17]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+Epoch 12 : b_values [[1.00000000e+00 6.39280530e-30 9.65991828e-30]
+ [1.00000000e+00 8.38324695e-27 6.91884503e-27]
+ [8.57118139e-06 9.99990239e-01 1.19001870e-06]
+ [4.24891300e-17 1.00000000e+00 6.32993319e-17]] 
+losse
+Epoch  1 : Train Loss 0.119832 , Train acc 0.945763, Valid acc 0.945354
+Epoch  2 : Train Loss 0.019853
+Epoch  3 : Train Loss 0.010804
+Epoch  4 : Train Loss 0.006628
+Epoch  5 : Train Loss 0.003519
+Epoch  6 : Train Loss 0.003200 , Train acc 0.993735, Valid acc 0.986970
+Epoch  7 : Train Loss 0.001720
+Epoch  8 : Train Loss 0.000996 , Train acc 0.999538, Valid acc 0.993939
+0.0009955950605702432
+Epoch  1 : Train Loss 0.118702 , Train acc 0.972369, Valid acc 0.972727
+Epoch  2 : Train Loss 0.019753
+Epoch  3 : Train Loss 0.011204
+Epoch  4 : Train Loss 0.006200
+Epoch  5 : Train Loss 0.004182
+Epoch  6 : Train Loss 0.002387 , Train acc 0.991767, Valid acc 0.986667
+Epoch  7 : Train Loss 0.001517
+Epoch  8 : Train Loss 0.000917 , Train acc 0.995562, Valid acc 0.989192
+0.0009174813860348271
+Epoch  1 : Train Loss 0.119807 , Train acc 0.980602, Valid acc 0.980303
+Epoch  2 : Train Loss 0.020240
+Epoch  3 : Train Loss 0.010459
+Epoch  4 : Train Loss 0.006376
+Epoch  5 : Train Loss 0.003747
+Epoch  6 : Train Loss 0.003235 , Train acc 0.988293, Valid acc 0.983131
+Epoch  7 : Train Loss 0.001593
+Epoch  8 : Train Loss 0.001011 , Train acc 0.999518, Valid acc 0.991818
+0.0010109650568241098
+Epoch  1 : Train Loss 0.125340 , Train acc 0.967912, Valid acc 0.968384
+Epoch  2 : Train Loss 0.020047
+Epoch  3 : Train Loss 0.010362
+Epoch  4 : Train Loss 0.006309
+Epoch  5 : Train Loss 0.003719
+Epoch  6 : Train Loss 0.002429 , Train acc 0.996807, Valid acc 0.991010
+Epoch  7 : Train Loss 0.001076
+Epoch  8 : Train Loss 0.000504 , Train acc 0.999578, Valid acc 0.993232
+0.0005041965102282119
+Epoch  1 : Train Loss 0.120851 , Train acc 0.983474, Valid acc 0.982424
+Epoch  2 : Train Loss 0.020276
+Epoch  3 : Train Loss 0.010938
+Epoch  4 : Train Loss 0.005834
+Epoch  5 : Train Loss 0.003643
+Epoch  6 : Train Loss 0.002478 , Train acc 0.998353, Valid acc 0.990404
+Epoch  7 : Train Loss 0.001310
+Epoch  8 : Train Loss 0.000842 , Train acc 0.995562, Valid acc 0.988081
+0.0008420674649823923
+Epoch  1 : Train Loss 0.121189 , Train acc 0.969759, Valid acc 0.971616
+Epoch  2 : Train Loss 0.020164
+Epoch  3 : Train Loss 0.010490
+Epoch  4 : Train Loss 0.006012
+Epoch  5 : Train Loss 0.003679
+Epoch  6 : Train Loss 0.002784 , Train acc 0.976687, Valid acc 0.968990
+Epoch  7 : Train Loss 0.001921
+Epoch  8 : Train Loss 0.001544 , Train acc 0.996245, Valid acc 0.989798
+0.0015435617120723084
+Epoch  1 : Train Loss 0.119737 , Train acc 0.943514, Valid acc 0.938283
+Epoch  2 : Train Loss 0.019122
+Epoch  3 : Train Loss 0.009704
+Epoch  4 : Train Loss 0.005827
+Epoch  5 : Train Loss 0.003503
+Epoch  6 : Train Loss 0.002704 , Train acc 0.990422, Valid acc 0.983434
+Epoch  7 : Train Loss 0.002061
+Epoch  8 : Train Loss 0.000947 , Train acc 0.999618, Valid acc 0.992020
+0.0009467701640581557
+Epoch  1 : Train Loss 0.119847 , Train acc 0.970482, Valid acc 0.970101
+Epoch  2 : Train Loss 0.019980
+Epoch  3 : Train Loss 0.010472
+Epoch  4 : Train Loss 0.006292
+Epoch  5 : Train Loss 0.004739
+Epoch  6 : Train Loss 0.002826 , Train acc 0.992751, Valid acc 0.986162
+Epoch  7 : Train Loss 0.001489
+Epoch  8 : Train Loss 0.001023 , Train acc 0.999036, Valid acc 0.992020
+0.001022802585697112
+Epoch  1 : Train Loss 0.123322 , Train acc 0.969056, Valid acc 0.966667
+Epoch  2 : Train Loss 0.019933
+Epoch  3 : Train Loss 0.010832
+Epoch  4 : Train Loss 0.005878
+Epoch  5 : Train Loss 0.003346
+Epoch  6 : Train Loss 0.002308 , Train acc 0.986667, Valid acc 0.980909
+Epoch  7 : Train Loss 0.001443
+Epoch  8 : Train Loss 0.000733 , Train acc 0.999779, Valid acc 0.993333
+0.0007334582251981677
+Epoch  1 : Train Loss 0.122523 , Train acc 0.973213, Valid acc 0.972828
+Epoch  2 : Train Loss 0.021559
+Epoch  3 : Train Loss 0.011642
+Epoch  4 : Train Loss 0.007078
+Epoch  5 : Train Loss 0.003982
+Epoch  6 : Train Loss 0.002849 , Train acc 0.966687, Valid acc 0.959899
+Epoch  7 : Train Loss 0.002079
+Epoch  8 : Train Loss 0.000794 , Train acc 0.999257, Valid acc 0.991515
+0.0007937382132028385
+Epoch  1 : Train Loss 0.121722 , Train acc 0.977932, Valid acc 0.979192
+Epoch  2 : Train Loss 0.019650
+Epoch  3 : Train Loss 0.010738
+Epoch  4 : Train Loss 0.006311
+Epoch  5 : Train Loss 0.003728
+Epoch  6 : Train Loss 0.001906 , Train acc 0.995602, Valid acc 0.988788
+Epoch  7 : Train Loss 0.001019
+Epoch  8 : Train Loss 0.000462 , Train acc 0.999940, Valid acc 0.993737
+0.0004623820270110931
+Epoch  1 : Train Loss 0.128578 , Train acc 0.942570, Valid acc 0.944747
+Epoch  2 : Train Loss 0.020833
+Epoch  3 : Train Loss 0.010967
+Epoch  4 : Train Loss 0.006726
+Epoch  5 : Train Loss 0.004760
+Epoch  6 : Train Loss 0.002650 , Train acc 0.961124, Valid acc 0.955354
+Epoch  7 : Train Loss 0.001389
+Epoch  8 : Train Loss 0.000899 , Train acc 0.999578, Valid acc 0.992323
+0.0008991956048945819
+Epoch  1 : Train Loss 0.120238 , Train acc 0.961305, Valid acc 0.961414
+Epoch  2 : Train Loss 0.019497
+Epoch  3 : Train Loss 0.010607
+Epoch  4 : Train Loss 0.006136
+Epoch  5 : Train Loss 0.003335
+Epoch  6 : Train Loss 0.002336 , Train acc 0.985863, Valid acc 0.980606
+Epoch  7 : Train Loss 0.001560
+Epoch  8 : Train Loss 0.000718 , Train acc 0.999940, Valid acc 0.993636
+0.0007181509821869743
+Epoch  1 : Train Loss 0.124461 , Train acc 0.979297, Valid acc 0.979091
+Epoch  2 : Train Loss 0.019793
+Epoch  3 : Train Loss 0.010373
+Epoch  4 : Train Loss 0.005658
+Epoch  5 : Train Loss 0.002936
+Epoch  6 : Train Loss 0.001791 , Train acc 0.995161, Valid acc 0.984949
+Epoch  7 : Train Loss 0.001074
+Epoch  8 : Train Loss 0.000747 , Train acc 0.999056, Valid acc 0.990707
+0.0007474279381858651
+Epoch  1 : Train Loss 0.119702 , Train acc 0.964518, Valid acc 0.967576
+Epoch  2 : Train Loss 0.020350
+Epoch  3 : Train Loss 0.010427
+Epoch  4 : Train Loss 0.006318
+Epoch  5 : Train Loss 0.003785
+Epoch  6 : Train Loss 0.002858 , Train acc 0.995120, Valid acc 0.988283
+Epoch  7 : Train Loss 0.002288
+Epoch  8 : Train Loss 0.001137 , Train acc 0.999578, Valid acc 0.992929
+0.0011365544076640313
+Epoch  1 : Train Loss 0.122129 , Train acc 0.975602, Valid acc 0.971818
+Epoch  2 : Train Loss 0.020460
+Epoch  3 : Train Loss 0.010956
+Epoch  4 : Train Loss 0.006806
+Epoch  5 : Train Loss 0.004409
+Epoch  6 : Train Loss 0.003034 , Train acc 0.978855, Valid acc 0.975354
+Epoch  7 : Train Loss 0.002288
+Epoch  8 : Train Loss 0.001073 , Train acc 0.998514, Valid acc 0.990404
+0.001072779797492937
+[ 30. -30. -30.]
+[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[ 30. -30. -30.]
+[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-11.66709641  11.53708544 -13.64154035]
+[8.36665504e-11 1.00000000e+00 1.16161379e-11]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-30.  30. -30.]
+[8.75651076e-27 1.00000000e+00 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+Epoch 13 : b_values [[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [8.36665504e-11 1.00000000e+00 1.16161379e-11]
+ [8.75651076e-27 1.00000000e+00 8.75651076e-27]] 
+losse
+Epoch  1 : Train Loss 0.120617 , Train acc 0.965442, Valid acc 0.967071
+Epoch  2 : Train Loss 0.019883
+Epoch  3 : Train Loss 0.011435
+Epoch  4 : Train Loss 0.006934
+Epoch  5 : Train Loss 0.004720
+Epoch  6 : Train Loss 0.003143 , Train acc 0.934518, Valid acc 0.928182
+Epoch  7 : Train Loss 0.002757
+Epoch  8 : Train Loss 0.001154 , Train acc 0.998594, Valid acc 0.991212
+0.0011543526054204752
+Epoch  1 : Train Loss 0.123307 , Train acc 0.970181, Valid acc 0.970000
+Epoch  2 : Train Loss 0.019745
+Epoch  3 : Train Loss 0.009964
+Epoch  4 : Train Loss 0.005621
+Epoch  5 : Train Loss 0.003616
+Epoch  6 : Train Loss 0.001999 , Train acc 0.983614, Valid acc 0.977677
+Epoch  7 : Train Loss 0.001286
+Epoch  8 : Train Loss 0.000755 , Train acc 0.999880, Valid acc 0.992222
+0.0007548766385783286
+Epoch  1 : Train Loss 0.120648 , Train acc 0.965040, Valid acc 0.961111
+Epoch  2 : Train Loss 0.020475
+Epoch  3 : Train Loss 0.010149
+Epoch  4 : Train Loss 0.006291
+Epoch  5 : Train Loss 0.003826
+Epoch  6 : Train Loss 0.002202 , Train acc 0.996627, Valid acc 0.989697
+Epoch  7 : Train Loss 0.001207
+Epoch  8 : Train Loss 0.000960 , Train acc 0.999498, Valid acc 0.991414
+0.000959973119412704
+Epoch  1 : Train Loss 0.123194 , Train acc 0.963574, Valid acc 0.965960
+Epoch  2 : Train Loss 0.018939
+Epoch  3 : Train Loss 0.010386
+Epoch  4 : Train Loss 0.005848
+Epoch  5 : Train Loss 0.003513
+Epoch  6 : Train Loss 0.001971 , Train acc 0.996948, Valid acc 0.988384
+Epoch  7 : Train Loss 0.001307
+Epoch  8 : Train Loss 0.000870 , Train acc 0.999378, Valid acc 0.993131
+0.0008697441956125355
+Epoch  1 : Train Loss 0.120382 , Train acc 0.962610, Valid acc 0.962626
+Epoch  2 : Train Loss 0.019807
+Epoch  3 : Train Loss 0.010328
+Epoch  4 : Train Loss 0.005800
+Epoch  5 : Train Loss 0.002701
+Epoch  6 : Train Loss 0.002240 , Train acc 0.983092, Valid acc 0.976465
+Epoch  7 : Train Loss 0.003519
+Epoch  8 : Train Loss 0.001271 , Train acc 0.999639, Valid acc 0.992121
+0.0012709243178445225
+Epoch  1 : Train Loss 0.121711 , Train acc 0.960522, Valid acc 0.960808
+Epoch  2 : Train Loss 0.019847
+Epoch  3 : Train Loss 0.010204
+Epoch  4 : Train Loss 0.005573
+Epoch  5 : Train Loss 0.003450
+Epoch  6 : Train Loss 0.002619 , Train acc 0.989116, Valid acc 0.983030
+Epoch  7 : Train Loss 0.001296
+Epoch  8 : Train Loss 0.000873 , Train acc 0.999799, Valid acc 0.992525
+0.000873456034848156
+Epoch  1 : Train Loss 0.116837 , Train acc 0.971124, Valid acc 0.970101
+Epoch  2 : Train Loss 0.020298
+Epoch  3 : Train Loss 0.010828
+Epoch  4 : Train Loss 0.006930
+Epoch  5 : Train Loss 0.004319
+Epoch  6 : Train Loss 0.002090 , Train acc 0.994478, Valid acc 0.987071
+Epoch  7 : Train Loss 0.000998
+Epoch  8 : Train Loss 0.001045 , Train acc 0.999378, Valid acc 0.991212
+0.0010445610626872318
+Epoch  1 : Train Loss 0.121033 , Train acc 0.969036, Valid acc 0.969697
+Epoch  2 : Train Loss 0.019184
+Epoch  3 : Train Loss 0.010543
+Epoch  4 : Train Loss 0.005405
+Epoch  5 : Train Loss 0.003670
+Epoch  6 : Train Loss 0.001912 , Train acc 0.998534, Valid acc 0.990909
+Epoch  7 : Train Loss 0.001329
+Epoch  8 : Train Loss 0.000700 , Train acc 0.999076, Valid acc 0.990707
+0.000700102730091506
+Epoch  1 : Train Loss 0.120771 , Train acc 0.984779, Valid acc 0.984343
+Epoch  2 : Train Loss 0.019262
+Epoch  3 : Train Loss 0.009488
+Epoch  4 : Train Loss 0.005486
+Epoch  5 : Train Loss 0.003270
+Epoch  6 : Train Loss 0.001761 , Train acc 0.994478, Valid acc 0.987778
+Epoch  7 : Train Loss 0.001290
+Epoch  8 : Train Loss 0.000868 , Train acc 0.999157, Valid acc 0.990909
+0.0008683578534206996
+Epoch  1 : Train Loss 0.121867 , Train acc 0.975080, Valid acc 0.971414
+Epoch  2 : Train Loss 0.020137
+Epoch  3 : Train Loss 0.010811
+Epoch  4 : Train Loss 0.005336
+Epoch  5 : Train Loss 0.003003
+Epoch  6 : Train Loss 0.001841 , Train acc 0.997892, Valid acc 0.989798
+Epoch  7 : Train Loss 0.000955
+Epoch  8 : Train Loss 0.000788 , Train acc 0.998956, Valid acc 0.991414
+0.000788237663655309
+Epoch  1 : Train Loss 0.120152 , Train acc 0.975884, Valid acc 0.970707
+Epoch  2 : Train Loss 0.019681
+Epoch  3 : Train Loss 0.010860
+Epoch  4 : Train Loss 0.005949
+Epoch  5 : Train Loss 0.003140
+Epoch  6 : Train Loss 0.002142 , Train acc 0.993233, Valid acc 0.985354
+Epoch  7 : Train Loss 0.001260
+Epoch  8 : Train Loss 0.001275 , Train acc 0.999177, Valid acc 0.990202
+0.0012747207296585354
+Epoch  1 : Train Loss 0.122649 , Train acc 0.973795, Valid acc 0.974040
+Epoch  2 : Train Loss 0.019758
+Epoch  3 : Train Loss 0.010768
+Epoch  4 : Train Loss 0.006048
+Epoch  5 : Train Loss 0.004281
+Epoch  6 : Train Loss 0.002407 , Train acc 0.994578, Valid acc 0.985152
+Epoch  7 : Train Loss 0.001403
+Epoch  8 : Train Loss 0.000804 , Train acc 0.999116, Valid acc 0.992424
+0.0008040654728150306
+Epoch  1 : Train Loss 0.121515 , Train acc 0.977751, Valid acc 0.980000
+Epoch  2 : Train Loss 0.019595
+Epoch  3 : Train Loss 0.009857
+Epoch  4 : Train Loss 0.005903
+Epoch  5 : Train Loss 0.003941
+Epoch  6 : Train Loss 0.002134 , Train acc 0.991687, Valid acc 0.985051
+Epoch  7 : Train Loss 0.001640
+Epoch  8 : Train Loss 0.000977 , Train acc 0.999578, Valid acc 0.992626
+0.0009771261392355277
+Epoch  1 : Train Loss 0.118667 , Train acc 0.978835, Valid acc 0.978889
+Epoch  2 : Train Loss 0.019795
+Epoch  3 : Train Loss 0.010480
+Epoch  4 : Train Loss 0.005694
+Epoch  5 : Train Loss 0.003149
+Epoch  6 : Train Loss 0.002502 , Train acc 0.995040, Valid acc 0.987677
+Epoch  7 : Train Loss 0.001424
+Epoch  8 : Train Loss 0.000629 , Train acc 0.999759, Valid acc 0.993030
+0.0006291677026213923
+Epoch  1 : Train Loss 0.120947 , Train acc 0.974056, Valid acc 0.973131
+Epoch  2 : Train Loss 0.020063
+Epoch  3 : Train Loss 0.011111
+Epoch  4 : Train Loss 0.006385
+Epoch  5 : Train Loss 0.004241
+Epoch  6 : Train Loss 0.002748 , Train acc 0.997068, Valid acc 0.989596
+Epoch  7 : Train Loss 0.001032
+Epoch  8 : Train Loss 0.000662 , Train acc 0.999719, Valid acc 0.992929
+0.0006615965485980269
+Epoch  1 : Train Loss 0.122918 , Train acc 0.965141, Valid acc 0.965556
+Epoch  2 : Train Loss 0.018790
+Epoch  3 : Train Loss 0.009719
+Epoch  4 : Train Loss 0.005719
+Epoch  5 : Train Loss 0.003159
+Epoch  6 : Train Loss 0.001855 , Train acc 0.995321, Valid acc 0.986162
+Epoch  7 : Train Loss 0.001499
+Epoch  8 : Train Loss 0.001066 , Train acc 0.998916, Valid acc 0.991212
+0.0010664298830670306
+[ 30. -30. -30.]
+[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[ 30. -30. -30.]
+[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-23.20418186  23.07417316 -25.17862579]
+[7.97197237e-21 1.00000000e+00 1.10681664e-21]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-30.  30. -30.]
+[8.75651076e-27 1.00000000e+00 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+Epoch 14 : b_values [[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [7.97197237e-21 1.00000000e+00 1.10681664e-21]
+ [8.75651076e-27 1.00000000e+00 8.75651076e-27]] 
+losse
+Epoch  1 : Train Loss 0.124434 , Train acc 0.978795, Valid acc 0.975657
+Epoch  2 : Train Loss 0.019352
+Epoch  3 : Train Loss 0.009492
+Epoch  4 : Train Loss 0.005769
+Epoch  5 : Train Loss 0.003290
+Epoch  6 : Train Loss 0.001808 , Train acc 0.993394, Valid acc 0.986061
+Epoch  7 : Train Loss 0.001811
+Epoch  8 : Train Loss 0.001619 , Train acc 0.999458, Valid acc 0.990101
+0.001619219702721845
+Epoch  1 : Train Loss 0.123984 , Train acc 0.960803, Valid acc 0.962323
+Epoch  2 : Train Loss 0.019838
+Epoch  3 : Train Loss 0.010563
+Epoch  4 : Train Loss 0.005451
+Epoch  5 : Train Loss 0.003422
+Epoch  6 : Train Loss 0.001920 , Train acc 0.992651, Valid acc 0.986061
+Epoch  7 : Train Loss 0.001374
+Epoch  8 : Train Loss 0.000679 , Train acc 0.999799, Valid acc 0.992626
+0.0006786275735066738
+Epoch  1 : Train Loss 0.119647 , Train acc 0.963976, Valid acc 0.965152
+Epoch  2 : Train Loss 0.020544
+Epoch  3 : Train Loss 0.010300
+Epoch  4 : Train Loss 0.006437
+Epoch  5 : Train Loss 0.004017
+Epoch  6 : Train Loss 0.002220 , Train acc 0.996365, Valid acc 0.987576
+Epoch  7 : Train Loss 0.001692
+Epoch  8 : Train Loss 0.001585 , Train acc 0.999558, Valid acc 0.991717
+0.0015853413194903017
+Epoch  1 : Train Loss 0.118745 , Train acc 0.979679, Valid acc 0.978485
+Epoch  2 : Train Loss 0.019611
+Epoch  3 : Train Loss 0.010196
+Epoch  4 : Train Loss 0.006514
+Epoch  5 : Train Loss 0.003782
+Epoch  6 : Train Loss 0.002270 , Train acc 0.991365, Valid acc 0.983131
+Epoch  7 : Train Loss 0.001226
+Epoch  8 : Train Loss 0.000824 , Train acc 0.997349, Valid acc 0.990808
+0.0008241894884849899
+Epoch  1 : Train Loss 0.120453 , Train acc 0.983092, Valid acc 0.982525
+Epoch  2 : Train Loss 0.020413
+Epoch  3 : Train Loss 0.011048
+Epoch  4 : Train Loss 0.007130
+Epoch  5 : Train Loss 0.004118
+Epoch  6 : Train Loss 0.002202 , Train acc 0.996406, Valid acc 0.988485
+Epoch  7 : Train Loss 0.001525
+Epoch  8 : Train Loss 0.000609 , Train acc 0.999699, Valid acc 0.992525
+0.0006091566165802458
+Epoch  1 : Train Loss 0.128912 , Train acc 0.968052, Valid acc 0.967475
+Epoch  2 : Train Loss 0.020512
+Epoch  3 : Train Loss 0.010776
+Epoch  4 : Train Loss 0.005715
+Epoch  5 : Train Loss 0.003466
+Epoch  6 : Train Loss 0.002125 , Train acc 0.993855, Valid acc 0.988182
+Epoch  7 : Train Loss 0.000975
+Epoch  8 : Train Loss 0.000663 , Train acc 0.999900, Valid acc 0.993636
+0.0006627217721446262
+Epoch  1 : Train Loss 0.119828 , Train acc 0.967169, Valid acc 0.969293
+Epoch  2 : Train Loss 0.019727
+Epoch  3 : Train Loss 0.011498
+Epoch  4 : Train Loss 0.006131
+Epoch  5 : Train Loss 0.003819
+Epoch  6 : Train Loss 0.002130 , Train acc 0.982410, Valid acc 0.977475
+Epoch  7 : Train Loss 0.001271
+Epoch  8 : Train Loss 0.000786 , Train acc 0.999257, Valid acc 0.991212
+0.0007861836936596471
+Epoch  1 : Train Loss 0.122227 , Train acc 0.959558, Valid acc 0.961414
+Epoch  2 : Train Loss 0.020032
+Epoch  3 : Train Loss 0.010478
+Epoch  4 : Train Loss 0.005760
+Epoch  5 : Train Loss 0.003115
+Epoch  6 : Train Loss 0.002289 , Train acc 0.985884, Valid acc 0.978889
+Epoch  7 : Train Loss 0.001313
+Epoch  8 : Train Loss 0.000715 , Train acc 0.999398, Valid acc 0.992525
+0.0007152697306203967
+Epoch  1 : Train Loss 0.122071 , Train acc 0.966345, Valid acc 0.966364
+Epoch  2 : Train Loss 0.021901
+Epoch  3 : Train Loss 0.011636
+Epoch  4 : Train Loss 0.006666
+Epoch  5 : Train Loss 0.004002
+Epoch  6 : Train Loss 0.002360 , Train acc 0.990803, Valid acc 0.983131
+Epoch  7 : Train Loss 0.001453
+Epoch  8 : Train Loss 0.000545 , Train acc 0.999679, Valid acc 0.992323
+0.0005453988325947042
+Epoch  1 : Train Loss 0.117484 , Train acc 0.962871, Valid acc 0.962626
+Epoch  2 : Train Loss 0.019843
+Epoch  3 : Train Loss 0.010357
+Epoch  4 : Train Loss 0.005472
+Epoch  5 : Train Loss 0.003354
+Epoch  6 : Train Loss 0.002428 , Train acc 0.995241, Valid acc 0.988081
+Epoch  7 : Train Loss 0.001196
+Epoch  8 : Train Loss 0.001388 , Train acc 0.998253, Valid acc 0.992020
+0.001387971416406799
+Epoch  1 : Train Loss 0.122312 , Train acc 0.952972, Valid acc 0.956263
+Epoch  2 : Train Loss 0.020079
+Epoch  3 : Train Loss 0.011329
+Epoch  4 : Train Loss 0.006736
+Epoch  5 : Train Loss 0.004100
+Epoch  6 : Train Loss 0.002066 , Train acc 0.997550, Valid acc 0.990505
+Epoch  7 : Train Loss 0.001230
+Epoch  8 : Train Loss 0.000853 , Train acc 0.998956, Valid acc 0.991818
+0.0008532687915915934
+Epoch  1 : Train Loss 0.118281 , Train acc 0.981446, Valid acc 0.982626
+Epoch  2 : Train Loss 0.019228
+Epoch  3 : Train Loss 0.010466
+Epoch  4 : Train Loss 0.005556
+Epoch  5 : Train Loss 0.003732
+Epoch  6 : Train Loss 0.001831 , Train acc 0.990442, Valid acc 0.983535
+Epoch  7 : Train Loss 0.001665
+Epoch  8 : Train Loss 0.000855 , Train acc 0.999498, Valid acc 0.992020
+0.0008545406157888162
+Epoch  1 : Train Loss 0.118461 , Train acc 0.964598, Valid acc 0.966970
+Epoch  2 : Train Loss 0.020275
+Epoch  3 : Train Loss 0.010908
+Epoch  4 : Train Loss 0.005880
+Epoch  5 : Train Loss 0.004056
+Epoch  6 : Train Loss 0.002752 , Train acc 0.991627, Valid acc 0.984040
+Epoch  7 : Train Loss 0.001708
+Epoch  8 : Train Loss 0.001212 , Train acc 0.998133, Valid acc 0.990606
+0.0012120842354003496
+Epoch  1 : Train Loss 0.125427 , Train acc 0.964558, Valid acc 0.964141
+Epoch  2 : Train Loss 0.018600
+Epoch  3 : Train Loss 0.008976
+Epoch  4 : Train Loss 0.005479
+Epoch  5 : Train Loss 0.003472
+Epoch  6 : Train Loss 0.001789 , Train acc 0.998855, Valid acc 0.991414
+Epoch  7 : Train Loss 0.001149
+Epoch  8 : Train Loss 0.000464 , Train acc 0.999438, Valid acc 0.992828
+0.0004635665962996427
+Epoch  1 : Train Loss 0.117525 , Train acc 0.972851, Valid acc 0.972020
+Epoch  2 : Train Loss 0.019310
+Epoch  3 : Train Loss 0.010539
+Epoch  4 : Train Loss 0.006116
+Epoch  5 : Train Loss 0.003497
+Epoch  6 : Train Loss 0.003198 , Train acc 0.992811, Valid acc 0.985455
+Epoch  7 : Train Loss 0.001355
+Epoch  8 : Train Loss 0.000966 , Train acc 0.998655, Valid acc 0.992323
+0.0009660808070718
+Epoch  1 : Train Loss 0.121265 , Train acc 0.929659, Valid acc 0.934646
+Epoch  2 : Train Loss 0.019762
+Epoch  3 : Train Loss 0.010909
+Epoch  4 : Train Loss 0.005828
+Epoch  5 : Train Loss 0.003527
+Epoch  6 : Train Loss 0.002261 , Train acc 0.991968, Valid acc 0.984545
+Epoch  7 : Train Loss 0.001166
+Epoch  8 : Train Loss 0.001019 , Train acc 0.999799, Valid acc 0.993636
+0.001019256826111814
+[ 30. -30. -30.]
+[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[ 30. -30. -30.]
+[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-30.  30. -30.]
+[8.75651076e-27 1.00000000e+00 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-30.  30. -30.]
+[8.75651076e-27 1.00000000e+00 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+Epoch 15 : b_values [[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [8.75651076e-27 1.00000000e+00 8.75651076e-27]
+ [8.75651076e-27 1.00000000e+00 8.75651076e-27]] 
+losse
+Epoch  1 : Train Loss 0.121530 , Train acc 0.967992, Valid acc 0.968788
+Epoch  2 : Train Loss 0.021223
+Epoch  3 : Train Loss 0.011413
+Epoch  4 : Train Loss 0.006241
+Epoch  5 : Train Loss 0.003861
+Epoch  6 : Train Loss 0.002443 , Train acc 0.983514, Valid acc 0.977273
+Epoch  7 : Train Loss 0.002018
+Epoch  8 : Train Loss 0.000830 , Train acc 0.999679, Valid acc 0.992525
+0.0008302280756470282
+Epoch  1 : Train Loss 0.122856 , Train acc 0.981526, Valid acc 0.978586
+Epoch  2 : Train Loss 0.021081
+Epoch  3 : Train Loss 0.011044
+Epoch  4 : Train Loss 0.006899
+Epoch  5 : Train Loss 0.005167
+Epoch  6 : Train Loss 0.002655 , Train acc 0.994980, Valid acc 0.987677
+Epoch  7 : Train Loss 0.001389
+Epoch  8 : Train Loss 0.000739 , Train acc 0.999659, Valid acc 0.991212
+0.0007392488018861817
+Epoch  1 : Train Loss 0.120637 , Train acc 0.981747, Valid acc 0.980808
+Epoch  2 : Train Loss 0.020280
+Epoch  3 : Train Loss 0.010827
+Epoch  4 : Train Loss 0.006389
+Epoch  5 : Train Loss 0.004665
+Epoch  6 : Train Loss 0.002981 , Train acc 0.997108, Valid acc 0.989899
+Epoch  7 : Train Loss 0.001600
+Epoch  8 : Train Loss 0.000874 , Train acc 0.999719, Valid acc 0.992727
+0.0008737285528817059
+Epoch  1 : Train Loss 0.120907 , Train acc 0.973936, Valid acc 0.974040
+Epoch  2 : Train Loss 0.020821
+Epoch  3 : Train Loss 0.010812
+Epoch  4 : Train Loss 0.006607
+Epoch  5 : Train Loss 0.005140
+Epoch  6 : Train Loss 0.002611 , Train acc 0.968795, Valid acc 0.963434
+Epoch  7 : Train Loss 0.002277
+Epoch  8 : Train Loss 0.001043 , Train acc 0.999538, Valid acc 0.991313
+0.0010427769279340283
+Epoch  1 : Train Loss 0.124125 , Train acc 0.967992, Valid acc 0.968889
+Epoch  2 : Train Loss 0.019956
+Epoch  3 : Train Loss 0.010027
+Epoch  4 : Train Loss 0.006210
+Epoch  5 : Train Loss 0.003280
+Epoch  6 : Train Loss 0.001909 , Train acc 0.997972, Valid acc 0.989899
+Epoch  7 : Train Loss 0.001363
+Epoch  8 : Train Loss 0.000891 , Train acc 0.999357, Valid acc 0.992424
+0.000890727121392653
+Epoch  1 : Train Loss 0.119485 , Train acc 0.973554, Valid acc 0.972626
+Epoch  2 : Train Loss 0.018802
+Epoch  3 : Train Loss 0.009776
+Epoch  4 : Train Loss 0.005455
+Epoch  5 : Train Loss 0.003404
+Epoch  6 : Train Loss 0.002404 , Train acc 0.993755, Valid acc 0.986465
+Epoch  7 : Train Loss 0.001565
+Epoch  8 : Train Loss 0.000756 , Train acc 0.999759, Valid acc 0.992727
+0.0007557036341556037
+Epoch  1 : Train Loss 0.120276 , Train acc 0.965060, Valid acc 0.962929
+Epoch  2 : Train Loss 0.019289
+Epoch  3 : Train Loss 0.009896
+Epoch  4 : Train Loss 0.005544
+Epoch  5 : Train Loss 0.003146
+Epoch  6 : Train Loss 0.001843 , Train acc 0.995863, Valid acc 0.988384
+Epoch  7 : Train Loss 0.001857
+Epoch  8 : Train Loss 0.000699 , Train acc 0.999799, Valid acc 0.992727
+0.0006991233498168488
+Epoch  1 : Train Loss 0.121574 , Train acc 0.975221, Valid acc 0.976869
+Epoch  2 : Train Loss 0.020994
+Epoch  3 : Train Loss 0.010558
+Epoch  4 : Train Loss 0.005735
+Epoch  5 : Train Loss 0.003466
+Epoch  6 : Train Loss 0.002151 , Train acc 0.994598, Valid acc 0.986970
+Epoch  7 : Train Loss 0.001874
+Epoch  8 : Train Loss 0.001173 , Train acc 0.999639, Valid acc 0.992828
+0.0011729495871501663
+Epoch  1 : Train Loss 0.120610 , Train acc 0.982169, Valid acc 0.980404
+Epoch  2 : Train Loss 0.019810
+Epoch  3 : Train Loss 0.010029
+Epoch  4 : Train Loss 0.005516
+Epoch  5 : Train Loss 0.004915
+Epoch  6 : Train Loss 0.002225 , Train acc 0.995040, Valid acc 0.985859
+Epoch  7 : Train Loss 0.001332
+Epoch  8 : Train Loss 0.000627 , Train acc 0.999478, Valid acc 0.993333
+0.0006266775190791426
+Epoch  1 : Train Loss 0.122622 , Train acc 0.971084, Valid acc 0.972828
+Epoch  2 : Train Loss 0.020291
+Epoch  3 : Train Loss 0.010889
+Epoch  4 : Train Loss 0.006601
+Epoch  5 : Train Loss 0.004237
+Epoch  6 : Train Loss 0.002223 , Train acc 0.992450, Valid acc 0.982121
+Epoch  7 : Train Loss 0.001765
+Epoch  8 : Train Loss 0.001232 , Train acc 0.997952, Valid acc 0.989899
+0.0012320121530501637
+Epoch  1 : Train Loss 0.120993 , Train acc 0.966305, Valid acc 0.967374
+Epoch  2 : Train Loss 0.020333
+Epoch  3 : Train Loss 0.009907
+Epoch  4 : Train Loss 0.005237
+Epoch  5 : Train Loss 0.002723
+Epoch  6 : Train Loss 0.002332 , Train acc 0.993173, Valid acc 0.984747
+Epoch  7 : Train Loss 0.001356
+Epoch  8 : Train Loss 0.000590 , Train acc 0.999679, Valid acc 0.992626
+0.0005902969275484792
+Epoch  1 : Train Loss 0.122273 , Train acc 0.971064, Valid acc 0.973535
+Epoch  2 : Train Loss 0.020234
+Epoch  3 : Train Loss 0.010460
+Epoch  4 : Train Loss 0.005968
+Epoch  5 : Train Loss 0.003386
+Epoch  6 : Train Loss 0.002297 , Train acc 0.996104, Valid acc 0.987879
+Epoch  7 : Train Loss 0.001222
+Epoch  8 : Train Loss 0.000722 , Train acc 0.999659, Valid acc 0.992727
+0.0007221454596340967
+Epoch  1 : Train Loss 0.124317 , Train acc 0.964217, Valid acc 0.965758
+Epoch  2 : Train Loss 0.020448
+Epoch  3 : Train Loss 0.010589
+Epoch  4 : Train Loss 0.006033
+Epoch  5 : Train Loss 0.003639
+Epoch  6 : Train Loss 0.001962 , Train acc 0.984357, Valid acc 0.975455
+Epoch  7 : Train Loss 0.001168
+Epoch  8 : Train Loss 0.000791 , Train acc 0.999699, Valid acc 0.991313
+0.0007910139532759786
+Epoch  1 : Train Loss 0.119745 , Train acc 0.960462, Valid acc 0.960202
+Epoch  2 : Train Loss 0.019526
+Epoch  3 : Train Loss 0.009880
+Epoch  4 : Train Loss 0.005198
+Epoch  5 : Train Loss 0.002712
+Epoch  6 : Train Loss 0.001517 , Train acc 0.999337, Valid acc 0.991111
+Epoch  7 : Train Loss 0.000781
+Epoch  8 : Train Loss 0.000618 , Train acc 0.999217, Valid acc 0.990909
+0.0006176751548870622
+Epoch  1 : Train Loss 0.128520 , Train acc 0.953333, Valid acc 0.952727
+Epoch  2 : Train Loss 0.020849
+Epoch  3 : Train Loss 0.011014
+Epoch  4 : Train Loss 0.006577
+Epoch  5 : Train Loss 0.003741
+Epoch  6 : Train Loss 0.001871 , Train acc 0.959177, Valid acc 0.950202
+Epoch  7 : Train Loss 0.001460
+Epoch  8 : Train Loss 0.001524 , Train acc 0.998434, Valid acc 0.991515
+0.0015240392887790222
+Epoch  1 : Train Loss 0.125605 , Train acc 0.983534, Valid acc 0.981616
+Epoch  2 : Train Loss 0.021519
+Epoch  3 : Train Loss 0.011321
+Epoch  4 : Train Loss 0.007164
+Epoch  5 : Train Loss 0.004224
+Epoch  6 : Train Loss 0.002584 , Train acc 0.973675, Valid acc 0.963838
+Epoch  7 : Train Loss 0.002389
+Epoch  8 : Train Loss 0.001633 , Train acc 0.998454, Valid acc 0.989091
+0.0016328113841397377
+[ 30. -30. -30.]
+[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[ 30. -30. -30.]
+[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-30.  30. -30.]
+[8.75651076e-27 1.00000000e+00 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+[-30.  30. -30.]
+[8.75651076e-27 1.00000000e+00 8.75651076e-27]
+[0. 0. 0.]
+[[0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]
+ [0 0 1 1]]
+Epoch  1 : Train Loss 0.125352 , Train acc 0.945542, Valid acc 0.949091
+Epoch  2 : Train Loss 0.019427
+Epoch  3 : Train Loss 0.009964
+Epoch  4 : Train Loss 0.006012
+Epoch  5 : Train Loss 0.003243
+Epoch  6 : Train Loss 0.002115 , Train acc 0.994839, Valid acc 0.985657
+Epoch  7 : Train Loss 0.001106
+Epoch  8 : Train Loss 0.000660 , Train acc 0.999839, Valid acc 0.993737
+--- 17987.931450128555 seconds ---
+The final loss when training with the optimal layers is: 0.0006598650926025585
+b_print[i]
+[[0.33333333 0.33333333 0.33333333]
+ [0.33333333 0.33333333 0.33333333]
+ [0.33333333 0.33333333 0.33333333]
+ [0.33333333 0.33333333 0.33333333]]
+[[0.34871215 0.31351195 0.3377759 ]
+ [0.3641955  0.31530735 0.32049715]
+ [0.33473437 0.34647339 0.31879224]
+ [0.32194284 0.3454861  0.33257106]]
+[[0.37791936 0.28949512 0.33258552]
+ [0.38348113 0.30103041 0.31548847]
+ [0.33570761 0.36394762 0.30034477]
+ [0.31436533 0.34858831 0.33704636]]
+[[0.41462881 0.26127007 0.32410112]
+ [0.41489596 0.2851491  0.29995495]
+ [0.35757788 0.37984543 0.2625767 ]
+ [0.28482159 0.37609605 0.33908236]]
+[[0.4755426  0.2321919  0.29226549]
+ [0.468584   0.26045503 0.27096098]
+ [0.35289038 0.40949438 0.23761524]
+ [0.26090634 0.42732037 0.31177329]]
+[[0.56550833 0.18217383 0.25231784]
+ [0.55648819 0.22520858 0.21830323]
+ [0.35805158 0.44471693 0.19723149]
+ [0.22172988 0.48857977 0.28969035]]
+[[0.71081367 0.1154697  0.17371663]
+ [0.68781054 0.16337109 0.14881837]
+ [0.36070071 0.48490218 0.15439711]
+ [0.17714784 0.58794678 0.23490538]]
+[[0.88391431 0.04617899 0.0699067 ]
+ [0.85796792 0.07417439 0.06785769]
+ [0.33830964 0.55568361 0.10600675]
+ [0.10640197 0.73454652 0.15905151]]
+[[0.98432232 0.00625564 0.00942205]
+ [0.97613622 0.01311783 0.01074595]
+ [0.28311062 0.65360636 0.06328302]
+ [0.03886388 0.90600314 0.05513298]]
+[[9.99748304e-01 1.00237914e-04 1.51457834e-04]
+ [9.99407184e-01 3.24765913e-04 2.68050386e-04]
+ [1.69521660e-01 8.02346752e-01 2.81315884e-02]
+ [4.04873024e-03 9.90079058e-01 5.87221198e-03]]
+[[9.99999937e-01 2.52383368e-08 3.81366640e-08]
+ [9.99999648e-01 1.92703243e-07 1.59041470e-07]
+ [4.65087047e-02 9.46748863e-01 6.74243209e-03]
+ [4.07306027e-05 9.99898591e-01 6.06783077e-05]]
+[[1.00000000e+00 1.59947975e-15 2.41691135e-15]
+ [1.00000000e+00 6.77823839e-14 5.59420249e-14]
+ [2.73499411e-03 9.96884384e-01 3.80621733e-04]
+ [4.13103317e-09 9.99999990e-01 6.15431851e-09]]
+[[1.00000000e+00 6.39280530e-30 9.65991828e-30]
+ [1.00000000e+00 8.38324695e-27 6.91884503e-27]
+ [8.57118139e-06 9.99990239e-01 1.19001870e-06]
+ [4.24891300e-17 1.00000000e+00 6.32993319e-17]]
+[[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [8.36665504e-11 1.00000000e+00 1.16161379e-11]
+ [8.75651076e-27 1.00000000e+00 8.75651076e-27]]
+[[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [7.97197237e-21 1.00000000e+00 1.10681664e-21]
+ [8.75651076e-27 1.00000000e+00 8.75651076e-27]]
+[[1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [1.00000000e+00 8.75651076e-27 8.75651076e-27]
+ [8.75651076e-27 1.00000000e+00 8.75651076e-27]
+ [8.75651076e-27 1.00000000e+00 8.75651076e-27]]

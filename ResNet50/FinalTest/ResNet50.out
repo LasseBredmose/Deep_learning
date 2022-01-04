@@ -1,0 +1,22 @@
+Running GPU.
+Epoch  1 : Train Loss 0.704189 , Train acc 0.917140, Valid acc 0.924800
+Epoch  2 : Train Loss 0.185092 , Train acc 0.974560, Valid acc 0.974200
+Epoch  3 : Train Loss 0.101276 , Train acc 0.982800, Valid acc 0.979400
+Epoch  4 : Train Loss 0.068028 , Train acc 0.986980, Valid acc 0.981400
+Epoch  5 : Train Loss 0.048683 , Train acc 0.985080, Valid acc 0.978600
+Epoch  6 : Train Loss 0.036126 , Train acc 0.983880, Valid acc 0.977800
+Epoch  7 : Train Loss 0.033133 , Train acc 0.985680, Valid acc 0.980100
+Epoch  8 : Train Loss 0.025443 , Train acc 0.985740, Valid acc 0.978400
+Epoch  9 : Train Loss 0.019068 , Train acc 0.986980, Valid acc 0.978600
+Epoch 10 : Train Loss 0.018472 , Train acc 0.993620, Valid acc 0.984500
+Epoch 11 : Train Loss 0.016435 , Train acc 0.994100, Valid acc 0.986700
+Epoch 12 : Train Loss 0.012375 , Train acc 0.993100, Valid acc 0.983000
+Epoch 13 : Train Loss 0.009290 , Train acc 0.991720, Valid acc 0.983200
+Epoch 14 : Train Loss 0.014293 , Train acc 0.988220, Valid acc 0.980500
+Epoch 15 : Train Loss 0.007746 , Train acc 0.995760, Valid acc 0.984600
+Epoch 16 : Train Loss 0.004566 , Train acc 0.998060, Valid acc 0.987400
+Epoch 17 : Train Loss 0.005622 , Train acc 0.997800, Valid acc 0.986600
+Epoch 18 : Train Loss 0.003035 , Train acc 0.998220, Valid acc 0.987900
+Epoch 19 : Train Loss 0.002316 , Train acc 0.998500, Valid acc 0.988100
+Epoch 20 : Train Loss 0.002875 , Train acc 0.998360, Valid acc 0.988600
+Epoch 21 : Train Loss 0.002677 , Train acc 0.997820, Valid acc 0.986300

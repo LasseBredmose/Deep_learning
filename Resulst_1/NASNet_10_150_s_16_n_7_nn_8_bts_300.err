@@ -1,0 +1,37 @@
+Loaded dependency [python3/3.9.6]: gcc/10.3.0-binutils-2.36.1
+Loaded module: python3/3.9.6
+
+Loading python3/3.9.6
+  Loading requirement: gcc/10.3.0-binutils-2.36.1
+Loaded module: cuda/11.5
+Loaded module: cudnn/v8.3.0.98-prod-cuda-11.5
+Loaded dependency [numpy/1.21.1-python-3.9.6-openblas-0.3.17]: openblas/0.3.17
+Loaded dependency [matplotlib/3.4.2-numpy-1.21.1-python-3.9.6]: numpy/1.21.1-python-3.9.6-openblas-0.3.17
+Loaded module: matplotlib/3.4.2-numpy-1.21.1-python-3.9.6
+
+Loading matplotlib/3.4.2-numpy-1.21.1-python-3.9.6
+  Loading requirement: openblas/0.3.17 numpy/1.21.1-python-3.9.6-openblas-0.3.17
+Traceback (most recent call last):
+  File "/zhome/45/c/128687/DeepLearning/NASNet/Testing/Training.py", line 262, in <module>
+    losses[i] = TrainNN(layers=ResNets_layers[i]) # losses is an list of n elements (10)
+  File "/zhome/45/c/128687/DeepLearning/NASNet/Testing/Training.py", line 75, in TrainNN
+    output = net(input) # I think only training the batch we are looking at 
+  File "/zhome/45/c/128687/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/45/c/128687/DeepLearning/NASNet/Testing/ResNet.py", line 91, in forward
+    x = self.layer2(x)
+  File "/zhome/45/c/128687/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/45/c/128687/.local/lib/python3.9/site-packages/torch/nn/modules/container.py", line 141, in forward
+    input = module(input)
+  File "/zhome/45/c/128687/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/45/c/128687/DeepLearning/NASNet/Testing/ResNet.py", line 30, in forward
+    x = self.relu(x)
+  File "/zhome/45/c/128687/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/zhome/45/c/128687/.local/lib/python3.9/site-packages/torch/nn/modules/activation.py", line 98, in forward
+    return F.relu(input, inplace=self.inplace)
+  File "/zhome/45/c/128687/.local/lib/python3.9/site-packages/torch/nn/functional.py", line 1299, in relu
+    result = torch.relu(input)
+KeyboardInterrupt

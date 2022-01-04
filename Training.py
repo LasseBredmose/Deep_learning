@@ -160,7 +160,7 @@ def softmax(vec):
   probabilities = exponential / np.sum(exponential)
   return probabilities
 
-def update_probs(b_i_old, ResNets_index, rewards, i, alpha=0.1): # i is the b_i we are looking at 
+def update_probs(b_i_old, ResNets_index, rewards, i, alpha=1): # i is the b_i we are looking at 
 
     # Finding the logits of b_i
     lgt_i_old = logits(b_i_old) 
@@ -206,8 +206,8 @@ def update_probs(b_i_old, ResNets_index, rewards, i, alpha=0.1): # i is the b_i 
 mnist_trainset = MNIST("./temp/", train=True, download=True) # Size of 60000
 mnist_testset = MNIST("./temp/", train=False, download=True) # Size of 60000
 # Only taking a subset
-tra_size = 4000
-val_size = 6000
+tra_size = 10000
+val_size = 15000
 
 x_train = mnist_trainset.data[:tra_size].view(-1, 784).float()
 x_train = x_train.reshape((x_train.shape[0], 1, 28, 28))
@@ -229,19 +229,21 @@ x_valid.div_(255)
 # Defining the loss function and the optimizer
 channels = 1 # b/w  = 1 channel
 classes = 10 # Numbers to predict
-batch_size = 400
-num_epochs = 8
+batch_size = 200
+num_epochs = 7
 
 
 # Initialising super parameters
-super_loop = 8 # 10-100
+super_loop = 16 # 10-100
 n_networks = 8
 b = np.array([[1/3,1/3,1/3], [1/3,1/3,1/3], [1/3,1/3,1/3], [1/3,1/3,1/3]])
 l = np.array([[1,2,3], [1,2,3], [1,2,3], [1,2,3]])
 
+b_print = np.empty([super_loop,len(b),len(b[0])])
 avg_loss = [] # the average loss for each iteration size [super_loop] * [n_networks]
 # Training the super archicture 
 for k in range(super_loop):
+    b_print[k] = b
     print(f'Epoch {k} : b_values {b} ')
     losses = np.zeros(n_networks) # array for the losses
 
@@ -266,6 +268,8 @@ for k in range(super_loop):
     #Updating the probabilities
     for i in range(len(b)): # Updating the b-values one probability at a time (4)
         b[i] = update_probs(b[i], ResNets_index, rewards, i)
+for i in range(super_loop):
+    print(b_print[i])
 
 x = [i+1 for i in range(super_loop)]
 for xe, ye in zip(x,avg_loss):
